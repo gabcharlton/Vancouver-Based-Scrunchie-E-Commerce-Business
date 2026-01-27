@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,signup_date,customer_type,acquisition_channel,country,region_id
+1,Customer1,Canada,customer1@scrunchieshop.ca,2024-10-20,Returning,Organic,Canada,5
+2,Customer2,Canada,customer2@scrunchieshop.ca,2024-05-30,New,Email,Canada,4
+3,Customer3,Canada,customer3@scrunchieshop.ca,2024-06-30,Returning,Organic,Canada,5
+4,Customer4,Canada,customer4@scrunchieshop.ca,2023-07-11,New,Paid Ads,Canada,1
+5,Customer5,Canada,customer5@scrunchieshop.ca,2023-02-18,Returning,Paid Ads,Canada,5
+6,Customer6,Canada,customer6@scrunchieshop.ca,2024-05-26,VIP,Referral,Canada,4
+7,Customer7,Canada,customer7@scrunchieshop.ca,2023-01-17,Returning,Organic,Canada,6
+8,Customer8,Canada,customer8@scrunchieshop.ca,2023-06-21,New,Referral,Canada,3
+9,Customer9,Canada,customer9@scrunchieshop.ca,2023-08-08,New,Organic,Canada,3
+10,Customer10,Canada,customer10@scrunchieshop.ca,2023-06-07,New,Paid Ads,Canada,5
+11,Customer11,Canada,customer11@scrunchieshop.ca,2024-04-21,Returning,Paid Ads,Canada,2
+12,Customer12,Canada,customer12@scrunchieshop.ca,2023-02-15,New,Paid Ads,Canada,3
+13,Customer13,Canada,customer13@scrunchieshop.ca,2024-01-08,New,Organic,Canada,6
+14,Customer14,Canada,customer14@scrunchieshop.ca,2024-06-01,Returning,Paid Ads,Canada,5
+15,Customer15,Canada,customer15@scrunchieshop.ca,2023-04-09,New,Organic,Canada,4
+16,Customer16,Canada,customer16@scrunchieshop.ca,2023-02-06,Returning,Referral,Canada,6
+17,Customer17,Canada,customer17@scrunchieshop.ca,2023-10-07,New,Organic,Canada,5
+18,Customer18,Canada,customer18@scrunchieshop.ca,2023-12-15,New,Referral,Canada,6
+19,Customer19,Canada,customer19@scrunchieshop.ca,2024-05-11,Returning,Organic,Canada,3
+20,Customer20,Canada,customer20@scrunchieshop.ca,2023-10-29,New,Referral,Canada,4
+21,Customer21,Canada,customer21@scrunchieshop.ca,2023-06-30,Returning,Paid Ads,Canada,5
+22,Customer22,Canada,customer22@scrunchieshop.ca,2024-08-29,New,Referral,Canada,1
+23,Customer23,Canada,customer23@scrunchieshop.ca,2023-04-09,New,Paid Ads,Canada,4
+24,Customer24,Canada,customer24@scrunchieshop.ca,2024-11-30,Returning,Paid Ads,Canada,1
+25,Customer25,Canada,customer25@scrunchieshop.ca,2023-04-26,Returning,Referral,Canada,6
+26,Customer26,Canada,customer26@scrunchieshop.ca,2023-07-10,Returning,Organic,Canada,2
+27,Customer27,Canada,customer27@scrunchieshop.ca,2023-09-10,New,Organic,Canada,4
+28,Customer28,Canada,customer28@scrunchieshop.ca,2023-06-10,Returning,Email,Canada,6
+29,Customer29,Canada,customer29@scrunchieshop.ca,2023-09-13,New,Organic,Canada,1
+30,Customer30,Canada,customer30@scrunchieshop.ca,2023-11-19,New,Email,Canada,3
+31,Customer31,Canada,customer31@scrunchieshop.ca,2023-05-08,VIP,Organic,Canada,3
+32,Customer32,Canada,customer32@scrunchieshop.ca,2023-01-18,New,Organic,Canada,2
+33,Customer33,Canada,customer33@scrunchieshop.ca,2024-07-19,VIP,Paid Ads,Canada,4
+34,Customer34,Canada,customer34@scrunchieshop.ca,2024-07-23,New,Email,Canada,4
+35,Customer35,Canada,customer35@scrunchieshop.ca,2023-11-19,New,Organic,Canada,4
+36,Customer36,Canada,customer36@scrunchieshop.ca,2024-11-16,Returning,Email,Canada,6
+37,Customer37,Canada,customer37@scrunchieshop.ca,2024-09-17,VIP,Paid Ads,Canada,2
+38,Customer38,Canada,customer38@scrunchieshop.ca,2023-10-15,Returning,Paid Ads,Canada,4
+39,Customer39,Canada,customer39@scrunchieshop.ca,2024-10-24,Returning,Email,Canada,6
+40,Customer40,Canada,customer40@scrunchieshop.ca,2024-09-30,Returning,Paid Ads,Canada,3
+41,Customer41,Canada,customer41@scrunchieshop.ca,2023-06-04,Returning,Referral,Canada,1
+42,Customer42,Canada,customer42@scrunchieshop.ca,2024-05-04,Returning,Referral,Canada,6
+43,Customer43,Canada,customer43@scrunchieshop.ca,2024-01-21,New,Paid Ads,Canada,3
+44,Customer44,Canada,customer44@scrunchieshop.ca,2023-04-14,New,Referral,Canada,3
+45,Customer45,Canada,customer45@scrunchieshop.ca,2024-01-28,New,Organic,Canada,1
+46,Customer46,Canada,customer46@scrunchieshop.ca,2023-09-03,VIP,Email,Canada,3
+47,Customer47,Canada,customer47@scrunchieshop.ca,2023-06-25,VIP,Organic,Canada,2
+48,Customer48,Canada,customer48@scrunchieshop.ca,2023-02-08,New,Email,Canada,1
+49,Customer49,Canada,customer49@scrunchieshop.ca,2024-04-21,Returning,Paid Ads,Canada,3
+50,Customer50,Canada,customer50@scrunchieshop.ca,2024-11-12,VIP,Organic,Canada,5
+51,Customer51,Canada,customer51@scrunchieshop.ca,2024-06-21,New,Paid Ads,Canada,6
+52,Customer52,Canada,customer52@scrunchieshop.ca,2024-02-12,Returning,Paid Ads,Canada,3
+53,Customer53,Canada,customer53@scrunchieshop.ca,2024-06-08,VIP,Email,Canada,2
+54,Customer54,Canada,customer54@scrunchieshop.ca,2024-05-20,New,Email,Canada,4
+55,Customer55,Canada,customer55@scrunchieshop.ca,2023-02-05,Returning,Email,Canada,3
+56,Customer56,Canada,customer56@scrunchieshop.ca,2024-11-15,New,Organic,Canada,4
+57,Customer57,Canada,customer57@scrunchieshop.ca,2023-01-20,VIP,Referral,Canada,5
+58,Customer58,Canada,customer58@scrunchieshop.ca,2023-11-17,VIP,Email,Canada,3
+59,Customer59,Canada,customer59@scrunchieshop.ca,2024-05-26,VIP,Email,Canada,1
+60,Customer60,Canada,customer60@scrunchieshop.ca,2024-02-04,New,Organic,Canada,4
+61,Customer61,Canada,customer61@scrunchieshop.ca,2024-10-15,VIP,Email,Canada,5
+62,Customer62,Canada,customer62@scrunchieshop.ca,2024-04-15,Returning,Organic,Canada,1
+63,Customer63,Canada,customer63@scrunchieshop.ca,2023-05-23,New,Paid Ads,Canada,1
+64,Customer64,Canada,customer64@scrunchieshop.ca,2023-04-02,Returning,Email,Canada,1
+65,Customer65,Canada,customer65@scrunchieshop.ca,2023-12-20,New,Email,Canada,1
+66,Customer66,Canada,customer66@scrunchieshop.ca,2023-02-20,Returning,Paid Ads,Canada,3
+67,Customer67,Canada,customer67@scrunchieshop.ca,2024-10-26,New,Paid Ads,Canada,6
+68,Customer68,Canada,customer68@scrunchieshop.ca,2024-11-28,New,Paid Ads,Canada,3
+69,Customer69,Canada,customer69@scrunchieshop.ca,2024-07-28,New,Email,Canada,3
+70,Customer70,Canada,customer70@scrunchieshop.ca,2023-07-09,Returning,Referral,Canada,5
+71,Customer71,Canada,customer71@scrunchieshop.ca,2023-05-05,New,Referral,Canada,5
+72,Customer72,Canada,customer72@scrunchieshop.ca,2023-05-30,Returning,Referral,Canada,6
+73,Customer73,Canada,customer73@scrunchieshop.ca,2023-11-10,New,Email,Canada,5
+74,Customer74,Canada,customer74@scrunchieshop.ca,2024-07-23,New,Paid Ads,Canada,2
+75,Customer75,Canada,customer75@scrunchieshop.ca,2023-12-08,Returning,Email,Canada,6
+76,Customer76,Canada,customer76@scrunchieshop.ca,2023-11-01,Returning,Paid Ads,Canada,5
+77,Customer77,Canada,customer77@scrunchieshop.ca,2024-11-22,New,Email,Canada,6
+78,Customer78,Canada,customer78@scrunchieshop.ca,2024-11-12,Returning,Email,Canada,3
+79,Customer79,Canada,customer79@scrunchieshop.ca,2023-02-23,VIP,Paid Ads,Canada,3
+80,Customer80,Canada,customer80@scrunchieshop.ca,2024-03-19,Returning,Referral,Canada,6
+81,Customer81,Canada,customer81@scrunchieshop.ca,2024-09-04,New,Paid Ads,Canada,2
+82,Customer82,Canada,customer82@scrunchieshop.ca,2023-09-21,New,Organic,Canada,2
+83,Customer83,Canada,customer83@scrunchieshop.ca,2023-02-22,VIP,Organic,Canada,6
+84,Customer84,Canada,customer84@scrunchieshop.ca,2024-07-25,New,Paid Ads,Canada,5
+85,Customer85,Canada,customer85@scrunchieshop.ca,2024-09-11,VIP,Email,Canada,4
+86,Customer86,Canada,customer86@scrunchieshop.ca,2023-01-05,Returning,Organic,Canada,2
+87,Customer87,Canada,customer87@scrunchieshop.ca,2023-04-13,VIP,Organic,Canada,1
+88,Customer88,Canada,customer88@scrunchieshop.ca,2023-07-15,Returning,Email,Canada,3
+89,Customer89,Canada,customer89@scrunchieshop.ca,2023-12-16,VIP,Email,Canada,6
+90,Customer90,Canada,customer90@scrunchieshop.ca,2023-02-16,New,Referral,Canada,1
+91,Customer91,Canada,customer91@scrunchieshop.ca,2024-10-17,Returning,Email,Canada,6
+92,Customer92,Canada,customer92@scrunchieshop.ca,2023-09-26,New,Paid Ads,Canada,3
+93,Customer93,Canada,customer93@scrunchieshop.ca,2024-01-05,New,Paid Ads,Canada,3
+94,Customer94,Canada,customer94@scrunchieshop.ca,2024-09-27,Returning,Referral,Canada,2
+95,Customer95,Canada,customer95@scrunchieshop.ca,2023-04-16,VIP,Organic,Canada,2
+96,Customer96,Canada,customer96@scrunchieshop.ca,2024-10-31,VIP,Organic,Canada,1
+97,Customer97,Canada,customer97@scrunchieshop.ca,2024-10-20,Returning,Email,Canada,6
+98,Customer98,Canada,customer98@scrunchieshop.ca,2024-10-18,New,Paid Ads,Canada,3
+99,Customer99,Canada,customer99@scrunchieshop.ca,2023-04-30,New,Organic,Canada,1
+100,Customer100,Canada,customer100@scrunchieshop.ca,2024-08-26,Returning,Referral,Canada,4
+101,Customer101,Canada,customer101@scrunchieshop.ca,2023-02-27,New,Referral,Canada,1
+102,Customer102,Canada,customer102@scrunchieshop.ca,2023-12-12,New,Paid Ads,Canada,5
+103,Customer103,Canada,customer103@scrunchieshop.ca,2024-04-18,New,Referral,Canada,1
+104,Customer104,Canada,customer104@scrunchieshop.ca,2023-04-27,New,Referral,Canada,5
+105,Customer105,Canada,customer105@scrunchieshop.ca,2023-05-07,New,Paid Ads,Canada,5
+106,Customer106,Canada,customer106@scrunchieshop.ca,2024-01-28,New,Email,Canada,5
+107,Customer107,Canada,customer107@scrunchieshop.ca,2024-10-02,New,Email,Canada,4
+108,Customer108,Canada,customer108@scrunchieshop.ca,2023-02-27,New,Referral,Canada,1
+109,Customer109,Canada,customer109@scrunchieshop.ca,2024-09-25,VIP,Email,Canada,1
+110,Customer110,Canada,customer110@scrunchieshop.ca,2024-05-27,New,Email,Canada,4
+111,Customer111,Canada,customer111@scrunchieshop.ca,2023-04-06,New,Referral,Canada,3
+112,Customer112,Canada,customer112@scrunchieshop.ca,2024-09-29,Returning,Email,Canada,2
+113,Customer113,Canada,customer113@scrunchieshop.ca,2023-04-28,New,Referral,Canada,1
+114,Customer114,Canada,customer114@scrunchieshop.ca,2024-07-13,VIP,Organic,Canada,2
+115,Customer115,Canada,customer115@scrunchieshop.ca,2024-08-23,Returning,Paid Ads,Canada,6
+116,Customer116,Canada,customer116@scrunchieshop.ca,2024-05-02,New,Paid Ads,Canada,6
+117,Customer117,Canada,customer117@scrunchieshop.ca,2023-08-25,New,Email,Canada,4
+118,Customer118,Canada,customer118@scrunchieshop.ca,2023-09-29,VIP,Email,Canada,6
+119,Customer119,Canada,customer119@scrunchieshop.ca,2023-07-08,VIP,Email,Canada,6
+120,Customer120,Canada,customer120@scrunchieshop.ca,2024-12-04,New,Paid Ads,Canada,3
+121,Customer121,Canada,customer121@scrunchieshop.ca,2024-03-22,Returning,Organic,Canada,3
+122,Customer122,Canada,customer122@scrunchieshop.ca,2024-08-03,New,Organic,Canada,3
+123,Customer123,Canada,customer123@scrunchieshop.ca,2023-09-04,VIP,Paid Ads,Canada,6
+124,Customer124,Canada,customer124@scrunchieshop.ca,2023-03-17,New,Organic,Canada,4
+125,Customer125,Canada,customer125@scrunchieshop.ca,2023-06-03,VIP,Paid Ads,Canada,5
+126,Customer126,Canada,customer126@scrunchieshop.ca,2024-10-17,Returning,Organic,Canada,5
+127,Customer127,Canada,customer127@scrunchieshop.ca,2024-03-10,Returning,Referral,Canada,2
+128,Customer128,Canada,customer128@scrunchieshop.ca,2023-03-27,Returning,Referral,Canada,5
+129,Customer129,Canada,customer129@scrunchieshop.ca,2024-11-27,New,Paid Ads,Canada,5
+130,Customer130,Canada,customer130@scrunchieshop.ca,2023-10-12,New,Organic,Canada,3
+131,Customer131,Canada,customer131@scrunchieshop.ca,2023-08-08,New,Email,Canada,3
+132,Customer132,Canada,customer132@scrunchieshop.ca,2023-03-10,New,Organic,Canada,6
+133,Customer133,Canada,customer133@scrunchieshop.ca,2023-02-16,Returning,Referral,Canada,2
+134,Customer134,Canada,customer134@scrunchieshop.ca,2023-04-04,New,Referral,Canada,1
+135,Customer135,Canada,customer135@scrunchieshop.ca,2024-03-28,New,Organic,Canada,2
+136,Customer136,Canada,customer136@scrunchieshop.ca,2023-07-23,VIP,Organic,Canada,2
+137,Customer137,Canada,customer137@scrunchieshop.ca,2023-08-06,VIP,Email,Canada,4
+138,Customer138,Canada,customer138@scrunchieshop.ca,2024-04-18,VIP,Email,Canada,6
+139,Customer139,Canada,customer139@scrunchieshop.ca,2024-03-07,VIP,Organic,Canada,4
+140,Customer140,Canada,customer140@scrunchieshop.ca,2023-12-07,New,Organic,Canada,2
+141,Customer141,Canada,customer141@scrunchieshop.ca,2024-07-04,New,Organic,Canada,2
+142,Customer142,Canada,customer142@scrunchieshop.ca,2024-09-03,Returning,Organic,Canada,2
+143,Customer143,Canada,customer143@scrunchieshop.ca,2023-10-16,Returning,Paid Ads,Canada,5
+144,Customer144,Canada,customer144@scrunchieshop.ca,2023-09-11,New,Organic,Canada,4
+145,Customer145,Canada,customer145@scrunchieshop.ca,2023-12-23,Returning,Email,Canada,2
+146,Customer146,Canada,customer146@scrunchieshop.ca,2023-01-23,New,Referral,Canada,3
+147,Customer147,Canada,customer147@scrunchieshop.ca,2024-06-05,New,Paid Ads,Canada,6
+148,Customer148,Canada,customer148@scrunchieshop.ca,2023-04-10,Returning,Organic,Canada,6
+149,Customer149,Canada,customer149@scrunchieshop.ca,2023-06-29,Returning,Referral,Canada,3
+150,Customer150,Canada,customer150@scrunchieshop.ca,2023-08-11,Returning,Paid Ads,Canada,6
+151,Customer151,Canada,customer151@scrunchieshop.ca,2024-10-20,New,Referral,Canada,5
+152,Customer152,Canada,customer152@scrunchieshop.ca,2024-03-17,VIP,Organic,Canada,5
+153,Customer153,Canada,customer153@scrunchieshop.ca,2024-08-30,New,Organic,Canada,1
+154,Customer154,Canada,customer154@scrunchieshop.ca,2023-11-21,New,Email,Canada,1
+155,Customer155,Canada,customer155@scrunchieshop.ca,2024-05-30,VIP,Organic,Canada,1
+156,Customer156,Canada,customer156@scrunchieshop.ca,2023-01-16,VIP,Organic,Canada,6
+157,Customer157,Canada,customer157@scrunchieshop.ca,2023-12-02,VIP,Paid Ads,Canada,5
+158,Customer158,Canada,customer158@scrunchieshop.ca,2023-09-15,Returning,Email,Canada,5
+159,Customer159,Canada,customer159@scrunchieshop.ca,2024-05-11,Returning,Paid Ads,Canada,5
+160,Customer160,Canada,customer160@scrunchieshop.ca,2023-06-09,Returning,Referral,Canada,3
+161,Customer161,Canada,customer161@scrunchieshop.ca,2024-04-19,New,Organic,Canada,5
+162,Customer162,Canada,customer162@scrunchieshop.ca,2024-10-25,New,Referral,Canada,3
+163,Customer163,Canada,customer163@scrunchieshop.ca,2024-11-20,New,Paid Ads,Canada,1
+164,Customer164,Canada,customer164@scrunchieshop.ca,2024-11-05,New,Organic,Canada,1
+165,Customer165,Canada,customer165@scrunchieshop.ca,2024-01-15,Returning,Organic,Canada,6
+166,Customer166,Canada,customer166@scrunchieshop.ca,2024-06-28,New,Paid Ads,Canada,1
+167,Customer167,Canada,customer167@scrunchieshop.ca,2024-11-21,New,Paid Ads,Canada,6
+168,Customer168,Canada,customer168@scrunchieshop.ca,2024-03-02,New,Paid Ads,Canada,2
+169,Customer169,Canada,customer169@scrunchieshop.ca,2024-09-04,Returning,Paid Ads,Canada,2
+170,Customer170,Canada,customer170@scrunchieshop.ca,2023-09-25,New,Paid Ads,Canada,4
+171,Customer171,Canada,customer171@scrunchieshop.ca,2024-07-30,VIP,Organic,Canada,6
+172,Customer172,Canada,customer172@scrunchieshop.ca,2024-02-21,New,Paid Ads,Canada,4
+173,Customer173,Canada,customer173@scrunchieshop.ca,2023-06-17,New,Organic,Canada,4
+174,Customer174,Canada,customer174@scrunchieshop.ca,2023-02-12,Returning,Organic,Canada,2
+175,Customer175,Canada,customer175@scrunchieshop.ca,2024-07-09,Returning,Paid Ads,Canada,6
+176,Customer176,Canada,customer176@scrunchieshop.ca,2023-10-12,New,Paid Ads,Canada,2
+177,Customer177,Canada,customer177@scrunchieshop.ca,2024-02-01,Returning,Email,Canada,4
+178,Customer178,Canada,customer178@scrunchieshop.ca,2023-01-12,Returning,Organic,Canada,6
+179,Customer179,Canada,customer179@scrunchieshop.ca,2024-08-29,New,Paid Ads,Canada,4
+180,Customer180,Canada,customer180@scrunchieshop.ca,2023-10-29,VIP,Paid Ads,Canada,5
+181,Customer181,Canada,customer181@scrunchieshop.ca,2023-09-10,Returning,Paid Ads,Canada,6
+182,Customer182,Canada,customer182@scrunchieshop.ca,2024-05-13,Returning,Email,Canada,6
+183,Customer183,Canada,customer183@scrunchieshop.ca,2023-02-04,VIP,Email,Canada,4
+184,Customer184,Canada,customer184@scrunchieshop.ca,2023-03-31,VIP,Referral,Canada,5
+185,Customer185,Canada,customer185@scrunchieshop.ca,2024-08-27,Returning,Organic,Canada,3
+186,Customer186,Canada,customer186@scrunchieshop.ca,2024-08-24,Returning,Referral,Canada,2
+187,Customer187,Canada,customer187@scrunchieshop.ca,2024-02-22,Returning,Paid Ads,Canada,4
+188,Customer188,Canada,customer188@scrunchieshop.ca,2023-04-25,Returning,Email,Canada,6
+189,Customer189,Canada,customer189@scrunchieshop.ca,2024-09-08,Returning,Email,Canada,2
+190,Customer190,Canada,customer190@scrunchieshop.ca,2023-07-15,Returning,Referral,Canada,2
+191,Customer191,Canada,customer191@scrunchieshop.ca,2024-05-15,New,Email,Canada,2
+192,Customer192,Canada,customer192@scrunchieshop.ca,2024-09-17,VIP,Paid Ads,Canada,3
+193,Customer193,Canada,customer193@scrunchieshop.ca,2024-05-07,VIP,Email,Canada,1
+194,Customer194,Canada,customer194@scrunchieshop.ca,2023-03-16,New,Referral,Canada,4
+195,Customer195,Canada,customer195@scrunchieshop.ca,2024-02-17,Returning,Paid Ads,Canada,1
+196,Customer196,Canada,customer196@scrunchieshop.ca,2024-01-11,New,Referral,Canada,1
+197,Customer197,Canada,customer197@scrunchieshop.ca,2024-02-24,New,Email,Canada,1
+198,Customer198,Canada,customer198@scrunchieshop.ca,2023-10-04,Returning,Referral,Canada,2
+199,Customer199,Canada,customer199@scrunchieshop.ca,2024-11-06,New,Referral,Canada,5
+200,Customer200,Canada,customer200@scrunchieshop.ca,2024-01-29,Returning,Organic,Canada,2
+201,Customer201,Canada,customer201@scrunchieshop.ca,2024-04-01,Returning,Email,Canada,2
+202,Customer202,Canada,customer202@scrunchieshop.ca,2023-07-11,Returning,Email,Canada,6
+203,Customer203,Canada,customer203@scrunchieshop.ca,2024-11-19,New,Referral,Canada,6
+204,Customer204,Canada,customer204@scrunchieshop.ca,2023-04-09,New,Organic,Canada,1
+205,Customer205,Canada,customer205@scrunchieshop.ca,2024-07-01,Returning,Email,Canada,2
+206,Customer206,Canada,customer206@scrunchieshop.ca,2023-04-06,VIP,Paid Ads,Canada,1
+207,Customer207,Canada,customer207@scrunchieshop.ca,2024-10-25,Returning,Referral,Canada,6
+208,Customer208,Canada,customer208@scrunchieshop.ca,2024-10-24,New,Email,Canada,5
+209,Customer209,Canada,customer209@scrunchieshop.ca,2023-07-09,Returning,Paid Ads,Canada,4
+210,Customer210,Canada,customer210@scrunchieshop.ca,2023-02-06,Returning,Email,Canada,1
+211,Customer211,Canada,customer211@scrunchieshop.ca,2024-01-04,Returning,Paid Ads,Canada,5
+212,Customer212,Canada,customer212@scrunchieshop.ca,2024-11-25,New,Referral,Canada,4
+213,Customer213,Canada,customer213@scrunchieshop.ca,2024-06-08,Returning,Email,Canada,3
+214,Customer214,Canada,customer214@scrunchieshop.ca,2023-10-06,Returning,Email,Canada,1
+215,Customer215,Canada,customer215@scrunchieshop.ca,2023-08-05,VIP,Organic,Canada,1
+216,Customer216,Canada,customer216@scrunchieshop.ca,2023-09-30,New,Referral,Canada,3
+217,Customer217,Canada,customer217@scrunchieshop.ca,2023-03-03,Returning,Paid Ads,Canada,3
+218,Customer218,Canada,customer218@scrunchieshop.ca,2024-08-18,VIP,Email,Canada,1
+219,Customer219,Canada,customer219@scrunchieshop.ca,2023-12-08,New,Email,Canada,3
+220,Customer220,Canada,customer220@scrunchieshop.ca,2024-02-01,VIP,Paid Ads,Canada,2
+221,Customer221,Canada,customer221@scrunchieshop.ca,2024-11-29,Returning,Referral,Canada,4
+222,Customer222,Canada,customer222@scrunchieshop.ca,2023-01-19,New,Organic,Canada,4
+223,Customer223,Canada,customer223@scrunchieshop.ca,2023-06-26,New,Organic,Canada,4
+224,Customer224,Canada,customer224@scrunchieshop.ca,2024-09-03,Returning,Email,Canada,2
+225,Customer225,Canada,customer225@scrunchieshop.ca,2024-01-31,New,Paid Ads,Canada,3
+226,Customer226,Canada,customer226@scrunchieshop.ca,2024-03-20,Returning,Email,Canada,5
+227,Customer227,Canada,customer227@scrunchieshop.ca,2023-08-21,New,Paid Ads,Canada,3
+228,Customer228,Canada,customer228@scrunchieshop.ca,2023-03-17,Returning,Organic,Canada,1
+229,Customer229,Canada,customer229@scrunchieshop.ca,2023-09-22,New,Referral,Canada,6
+230,Customer230,Canada,customer230@scrunchieshop.ca,2024-03-30,VIP,Paid Ads,Canada,4
+231,Customer231,Canada,customer231@scrunchieshop.ca,2024-12-18,VIP,Organic,Canada,3
+232,Customer232,Canada,customer232@scrunchieshop.ca,2024-01-19,VIP,Email,Canada,5
+233,Customer233,Canada,customer233@scrunchieshop.ca,2024-07-17,Returning,Paid Ads,Canada,1
+234,Customer234,Canada,customer234@scrunchieshop.ca,2024-05-20,New,Referral,Canada,2
+235,Customer235,Canada,customer235@scrunchieshop.ca,2024-01-02,Returning,Email,Canada,2
+236,Customer236,Canada,customer236@scrunchieshop.ca,2023-05-24,New,Email,Canada,5
+237,Customer237,Canada,customer237@scrunchieshop.ca,2023-03-10,New,Organic,Canada,1
+238,Customer238,Canada,customer238@scrunchieshop.ca,2023-04-09,New,Paid Ads,Canada,4
+239,Customer239,Canada,customer239@scrunchieshop.ca,2024-01-31,New,Email,Canada,3
+240,Customer240,Canada,customer240@scrunchieshop.ca,2023-01-25,Returning,Referral,Canada,1
+241,Customer241,Canada,customer241@scrunchieshop.ca,2024-04-13,Returning,Paid Ads,Canada,2
+242,Customer242,Canada,customer242@scrunchieshop.ca,2024-04-28,New,Referral,Canada,5
+243,Customer243,Canada,customer243@scrunchieshop.ca,2024-07-18,New,Email,Canada,5
+244,Customer244,Canada,customer244@scrunchieshop.ca,2023-05-31,VIP,Referral,Canada,3
+245,Customer245,Canada,customer245@scrunchieshop.ca,2023-05-24,New,Organic,Canada,5
+246,Customer246,Canada,customer246@scrunchieshop.ca,2024-07-22,New,Referral,Canada,5
+247,Customer247,Canada,customer247@scrunchieshop.ca,2023-02-08,New,Paid Ads,Canada,1
+248,Customer248,Canada,customer248@scrunchieshop.ca,2023-04-19,Returning,Referral,Canada,4
+249,Customer249,Canada,customer249@scrunchieshop.ca,2024-11-23,Returning,Referral,Canada,3
+250,Customer250,Canada,customer250@scrunchieshop.ca,2023-02-11,New,Organic,Canada,1
+251,Customer251,Canada,customer251@scrunchieshop.ca,2023-07-05,New,Referral,Canada,4
+252,Customer252,Canada,customer252@scrunchieshop.ca,2024-02-02,Returning,Referral,Canada,1
+253,Customer253,Canada,customer253@scrunchieshop.ca,2023-08-11,Returning,Email,Canada,6
+254,Customer254,Canada,customer254@scrunchieshop.ca,2024-09-25,New,Email,Canada,1
+255,Customer255,Canada,customer255@scrunchieshop.ca,2023-05-13,VIP,Paid Ads,Canada,5
+256,Customer256,Canada,customer256@scrunchieshop.ca,2023-06-12,New,Email,Canada,4
+257,Customer257,Canada,customer257@scrunchieshop.ca,2023-08-03,New,Email,Canada,3
+258,Customer258,Canada,customer258@scrunchieshop.ca,2023-08-23,VIP,Email,Canada,3
+259,Customer259,Canada,customer259@scrunchieshop.ca,2024-10-19,New,Email,Canada,4
+260,Customer260,Canada,customer260@scrunchieshop.ca,2024-08-10,Returning,Organic,Canada,5
+261,Customer261,Canada,customer261@scrunchieshop.ca,2023-01-09,New,Email,Canada,2
+262,Customer262,Canada,customer262@scrunchieshop.ca,2023-03-15,New,Organic,Canada,1
+263,Customer263,Canada,customer263@scrunchieshop.ca,2024-05-06,VIP,Organic,Canada,5
+264,Customer264,Canada,customer264@scrunchieshop.ca,2023-09-10,New,Email,Canada,6
+265,Customer265,Canada,customer265@scrunchieshop.ca,2023-08-18,VIP,Referral,Canada,4
+266,Customer266,Canada,customer266@scrunchieshop.ca,2024-06-02,New,Organic,Canada,1
+267,Customer267,Canada,customer267@scrunchieshop.ca,2023-06-23,New,Referral,Canada,3
+268,Customer268,Canada,customer268@scrunchieshop.ca,2024-10-14,New,Referral,Canada,2
+269,Customer269,Canada,customer269@scrunchieshop.ca,2023-06-17,Returning,Email,Canada,6
+270,Customer270,Canada,customer270@scrunchieshop.ca,2023-06-19,New,Paid Ads,Canada,3
+271,Customer271,Canada,customer271@scrunchieshop.ca,2024-01-28,VIP,Email,Canada,4
+272,Customer272,Canada,customer272@scrunchieshop.ca,2024-09-25,New,Paid Ads,Canada,1
+273,Customer273,Canada,customer273@scrunchieshop.ca,2023-07-13,VIP,Paid Ads,Canada,4
+274,Customer274,Canada,customer274@scrunchieshop.ca,2024-05-31,New,Email,Canada,1
+275,Customer275,Canada,customer275@scrunchieshop.ca,2023-01-29,VIP,Email,Canada,5
+276,Customer276,Canada,customer276@scrunchieshop.ca,2023-06-14,Returning,Paid Ads,Canada,2
+277,Customer277,Canada,customer277@scrunchieshop.ca,2024-02-26,Returning,Email,Canada,5
+278,Customer278,Canada,customer278@scrunchieshop.ca,2023-12-05,Returning,Paid Ads,Canada,5
+279,Customer279,Canada,customer279@scrunchieshop.ca,2024-10-09,Returning,Referral,Canada,4
+280,Customer280,Canada,customer280@scrunchieshop.ca,2024-05-10,Returning,Email,Canada,2
+281,Customer281,Canada,customer281@scrunchieshop.ca,2023-12-31,New,Referral,Canada,1
+282,Customer282,Canada,customer282@scrunchieshop.ca,2023-12-08,New,Organic,Canada,1
+283,Customer283,Canada,customer283@scrunchieshop.ca,2024-05-14,VIP,Referral,Canada,6
+284,Customer284,Canada,customer284@scrunchieshop.ca,2024-10-18,Returning,Referral,Canada,3
+285,Customer285,Canada,customer285@scrunchieshop.ca,2024-05-25,Returning,Paid Ads,Canada,6
+286,Customer286,Canada,customer286@scrunchieshop.ca,2023-11-23,New,Referral,Canada,6
+287,Customer287,Canada,customer287@scrunchieshop.ca,2023-08-05,New,Email,Canada,1
+288,Customer288,Canada,customer288@scrunchieshop.ca,2023-10-28,New,Paid Ads,Canada,4
+289,Customer289,Canada,customer289@scrunchieshop.ca,2023-05-12,Returning,Organic,Canada,5
+290,Customer290,Canada,customer290@scrunchieshop.ca,2023-03-11,New,Email,Canada,5
+291,Customer291,Canada,customer291@scrunchieshop.ca,2023-09-09,New,Organic,Canada,5
+292,Customer292,Canada,customer292@scrunchieshop.ca,2024-02-19,New,Referral,Canada,2
+293,Customer293,Canada,customer293@scrunchieshop.ca,2024-03-20,New,Email,Canada,1
+294,Customer294,Canada,customer294@scrunchieshop.ca,2023-07-01,Returning,Email,Canada,4
+295,Customer295,Canada,customer295@scrunchieshop.ca,2023-06-16,New,Organic,Canada,2
+296,Customer296,Canada,customer296@scrunchieshop.ca,2023-04-01,Returning,Email,Canada,3
+297,Customer297,Canada,customer297@scrunchieshop.ca,2024-12-14,New,Email,Canada,4
+298,Customer298,Canada,customer298@scrunchieshop.ca,2024-06-14,New,Email,Canada,6
+299,Customer299,Canada,customer299@scrunchieshop.ca,2023-02-08,New,Referral,Canada,4
+300,Customer300,Canada,customer300@scrunchieshop.ca,2023-05-06,New,Organic,Canada,4
+301,Customer301,Canada,customer301@scrunchieshop.ca,2024-03-26,New,Email,Canada,5
+302,Customer302,Canada,customer302@scrunchieshop.ca,2023-06-22,New,Paid Ads,Canada,4
+303,Customer303,Canada,customer303@scrunchieshop.ca,2024-10-14,Returning,Paid Ads,Canada,6
+304,Customer304,Canada,customer304@scrunchieshop.ca,2023-08-08,New,Paid Ads,Canada,6
+305,Customer305,Canada,customer305@scrunchieshop.ca,2024-09-29,Returning,Paid Ads,Canada,1
+306,Customer306,Canada,customer306@scrunchieshop.ca,2023-02-27,VIP,Referral,Canada,4
+307,Customer307,Canada,customer307@scrunchieshop.ca,2024-10-21,Returning,Email,Canada,5
+308,Customer308,Canada,customer308@scrunchieshop.ca,2024-04-20,New,Organic,Canada,4
+309,Customer309,Canada,customer309@scrunchieshop.ca,2024-03-31,New,Email,Canada,3
+310,Customer310,Canada,customer310@scrunchieshop.ca,2023-12-27,New,Referral,Canada,3
+311,Customer311,Canada,customer311@scrunchieshop.ca,2023-01-01,New,Paid Ads,Canada,5
+312,Customer312,Canada,customer312@scrunchieshop.ca,2024-01-22,VIP,Referral,Canada,1
+313,Customer313,Canada,customer313@scrunchieshop.ca,2023-12-14,New,Email,Canada,1
+314,Customer314,Canada,customer314@scrunchieshop.ca,2023-07-09,New,Organic,Canada,6
+315,Customer315,Canada,customer315@scrunchieshop.ca,2024-05-19,Returning,Referral,Canada,6
+316,Customer316,Canada,customer316@scrunchieshop.ca,2023-07-10,Returning,Organic,Canada,2
+317,Customer317,Canada,customer317@scrunchieshop.ca,2024-05-22,Returning,Referral,Canada,5
+318,Customer318,Canada,customer318@scrunchieshop.ca,2024-01-04,New,Organic,Canada,4
+319,Customer319,Canada,customer319@scrunchieshop.ca,2024-02-13,New,Organic,Canada,5
+320,Customer320,Canada,customer320@scrunchieshop.ca,2023-04-27,Returning,Paid Ads,Canada,2
+321,Customer321,Canada,customer321@scrunchieshop.ca,2023-05-14,New,Organic,Canada,6
+322,Customer322,Canada,customer322@scrunchieshop.ca,2023-02-27,New,Paid Ads,Canada,5
+323,Customer323,Canada,customer323@scrunchieshop.ca,2024-07-09,New,Email,Canada,5
+324,Customer324,Canada,customer324@scrunchieshop.ca,2024-11-15,New,Email,Canada,6
+325,Customer325,Canada,customer325@scrunchieshop.ca,2024-11-02,New,Paid Ads,Canada,2
+326,Customer326,Canada,customer326@scrunchieshop.ca,2023-06-22,New,Paid Ads,Canada,6
+327,Customer327,Canada,customer327@scrunchieshop.ca,2023-05-29,Returning,Referral,Canada,1
+328,Customer328,Canada,customer328@scrunchieshop.ca,2023-03-21,Returning,Referral,Canada,4
+329,Customer329,Canada,customer329@scrunchieshop.ca,2023-08-01,Returning,Referral,Canada,6
+330,Customer330,Canada,customer330@scrunchieshop.ca,2023-07-22,New,Email,Canada,2
+331,Customer331,Canada,customer331@scrunchieshop.ca,2023-08-17,New,Referral,Canada,3
+332,Customer332,Canada,customer332@scrunchieshop.ca,2024-11-06,New,Organic,Canada,1
+333,Customer333,Canada,customer333@scrunchieshop.ca,2023-08-15,Returning,Organic,Canada,3
+334,Customer334,Canada,customer334@scrunchieshop.ca,2024-10-20,Returning,Referral,Canada,6
+335,Customer335,Canada,customer335@scrunchieshop.ca,2024-06-15,New,Organic,Canada,1
+336,Customer336,Canada,customer336@scrunchieshop.ca,2024-03-16,VIP,Email,Canada,4
+337,Customer337,Canada,customer337@scrunchieshop.ca,2024-02-06,New,Organic,Canada,6
+338,Customer338,Canada,customer338@scrunchieshop.ca,2023-02-16,Returning,Email,Canada,4
+339,Customer339,Canada,customer339@scrunchieshop.ca,2023-08-21,Returning,Paid Ads,Canada,5
+340,Customer340,Canada,customer340@scrunchieshop.ca,2023-11-01,VIP,Paid Ads,Canada,3
+341,Customer341,Canada,customer341@scrunchieshop.ca,2024-06-09,Returning,Paid Ads,Canada,1
+342,Customer342,Canada,customer342@scrunchieshop.ca,2023-05-23,Returning,Paid Ads,Canada,4
+343,Customer343,Canada,customer343@scrunchieshop.ca,2024-02-19,New,Organic,Canada,2
+344,Customer344,Canada,customer344@scrunchieshop.ca,2024-05-27,Returning,Referral,Canada,4
+345,Customer345,Canada,customer345@scrunchieshop.ca,2024-01-08,New,Organic,Canada,2
+346,Customer346,Canada,customer346@scrunchieshop.ca,2024-07-19,VIP,Email,Canada,6
+347,Customer347,Canada,customer347@scrunchieshop.ca,2023-09-16,Returning,Organic,Canada,1
+348,Customer348,Canada,customer348@scrunchieshop.ca,2024-10-17,Returning,Organic,Canada,4
+349,Customer349,Canada,customer349@scrunchieshop.ca,2024-04-15,New,Email,Canada,4
+350,Customer350,Canada,customer350@scrunchieshop.ca,2023-01-12,Returning,Paid Ads,Canada,1
+351,Customer351,Canada,customer351@scrunchieshop.ca,2023-11-26,Returning,Paid Ads,Canada,4
+352,Customer352,Canada,customer352@scrunchieshop.ca,2023-12-24,Returning,Paid Ads,Canada,2
+353,Customer353,Canada,customer353@scrunchieshop.ca,2024-02-12,New,Referral,Canada,4
+354,Customer354,Canada,customer354@scrunchieshop.ca,2024-10-29,New,Email,Canada,3
+355,Customer355,Canada,customer355@scrunchieshop.ca,2024-01-08,New,Email,Canada,6
+356,Customer356,Canada,customer356@scrunchieshop.ca,2023-01-08,New,Organic,Canada,5
+357,Customer357,Canada,customer357@scrunchieshop.ca,2023-05-02,VIP,Referral,Canada,2
+358,Customer358,Canada,customer358@scrunchieshop.ca,2023-12-14,New,Paid Ads,Canada,3
+359,Customer359,Canada,customer359@scrunchieshop.ca,2024-11-06,VIP,Referral,Canada,6
+360,Customer360,Canada,customer360@scrunchieshop.ca,2023-03-31,New,Email,Canada,1
+361,Customer361,Canada,customer361@scrunchieshop.ca,2024-10-09,New,Email,Canada,2
+362,Customer362,Canada,customer362@scrunchieshop.ca,2024-11-28,Returning,Organic,Canada,5
+363,Customer363,Canada,customer363@scrunchieshop.ca,2023-11-12,Returning,Organic,Canada,6
+364,Customer364,Canada,customer364@scrunchieshop.ca,2023-06-27,New,Email,Canada,5
+365,Customer365,Canada,customer365@scrunchieshop.ca,2024-06-23,Returning,Paid Ads,Canada,1
+366,Customer366,Canada,customer366@scrunchieshop.ca,2023-02-10,Returning,Paid Ads,Canada,1
+367,Customer367,Canada,customer367@scrunchieshop.ca,2024-12-04,New,Referral,Canada,2
+368,Customer368,Canada,customer368@scrunchieshop.ca,2024-05-16,VIP,Email,Canada,4
+369,Customer369,Canada,customer369@scrunchieshop.ca,2023-05-25,VIP,Email,Canada,1
+370,Customer370,Canada,customer370@scrunchieshop.ca,2023-07-20,Returning,Paid Ads,Canada,6
+371,Customer371,Canada,customer371@scrunchieshop.ca,2024-04-05,New,Paid Ads,Canada,4
+372,Customer372,Canada,customer372@scrunchieshop.ca,2024-07-11,Returning,Email,Canada,3
+373,Customer373,Canada,customer373@scrunchieshop.ca,2024-06-30,New,Organic,Canada,5
+374,Customer374,Canada,customer374@scrunchieshop.ca,2023-09-10,New,Email,Canada,4
+375,Customer375,Canada,customer375@scrunchieshop.ca,2024-01-25,New,Email,Canada,5
+376,Customer376,Canada,customer376@scrunchieshop.ca,2024-08-16,New,Paid Ads,Canada,4
+377,Customer377,Canada,customer377@scrunchieshop.ca,2023-09-13,VIP,Paid Ads,Canada,3
+378,Customer378,Canada,customer378@scrunchieshop.ca,2024-12-09,Returning,Organic,Canada,1
+379,Customer379,Canada,customer379@scrunchieshop.ca,2024-03-25,Returning,Organic,Canada,3
+380,Customer380,Canada,customer380@scrunchieshop.ca,2023-01-10,New,Referral,Canada,1
+381,Customer381,Canada,customer381@scrunchieshop.ca,2023-08-30,New,Email,Canada,1
+382,Customer382,Canada,customer382@scrunchieshop.ca,2023-09-08,New,Paid Ads,Canada,5
+383,Customer383,Canada,customer383@scrunchieshop.ca,2023-01-05,VIP,Organic,Canada,6
+384,Customer384,Canada,customer384@scrunchieshop.ca,2023-04-29,New,Referral,Canada,3
+385,Customer385,Canada,customer385@scrunchieshop.ca,2024-01-09,VIP,Referral,Canada,4
+386,Customer386,Canada,customer386@scrunchieshop.ca,2023-03-06,Returning,Paid Ads,Canada,3
+387,Customer387,Canada,customer387@scrunchieshop.ca,2023-05-26,New,Paid Ads,Canada,5
+388,Customer388,Canada,customer388@scrunchieshop.ca,2023-08-12,Returning,Referral,Canada,1
+389,Customer389,Canada,customer389@scrunchieshop.ca,2023-08-27,New,Organic,Canada,5
+390,Customer390,Canada,customer390@scrunchieshop.ca,2023-06-26,VIP,Referral,Canada,2
+391,Customer391,Canada,customer391@scrunchieshop.ca,2023-10-09,VIP,Email,Canada,2
+392,Customer392,Canada,customer392@scrunchieshop.ca,2023-03-04,New,Email,Canada,4
+393,Customer393,Canada,customer393@scrunchieshop.ca,2023-08-05,New,Paid Ads,Canada,5
+394,Customer394,Canada,customer394@scrunchieshop.ca,2024-11-19,Returning,Organic,Canada,4
+395,Customer395,Canada,customer395@scrunchieshop.ca,2024-04-05,VIP,Organic,Canada,4
+396,Customer396,Canada,customer396@scrunchieshop.ca,2024-09-01,New,Email,Canada,2
+397,Customer397,Canada,customer397@scrunchieshop.ca,2023-04-15,Returning,Referral,Canada,4
+398,Customer398,Canada,customer398@scrunchieshop.ca,2023-04-09,Returning,Paid Ads,Canada,2
+399,Customer399,Canada,customer399@scrunchieshop.ca,2024-05-25,Returning,Referral,Canada,1
+400,Customer400,Canada,customer400@scrunchieshop.ca,2024-01-20,New,Referral,Canada,5
+401,Customer401,Canada,customer401@scrunchieshop.ca,2024-02-09,Returning,Referral,Canada,4
+402,Customer402,Canada,customer402@scrunchieshop.ca,2024-06-01,VIP,Organic,Canada,2
+403,Customer403,Canada,customer403@scrunchieshop.ca,2024-04-20,New,Email,Canada,3
+404,Customer404,Canada,customer404@scrunchieshop.ca,2024-12-09,New,Organic,Canada,4
+405,Customer405,Canada,customer405@scrunchieshop.ca,2024-10-06,VIP,Email,Canada,6
+406,Customer406,Canada,customer406@scrunchieshop.ca,2024-03-12,New,Paid Ads,Canada,1
+407,Customer407,Canada,customer407@scrunchieshop.ca,2023-01-23,VIP,Paid Ads,Canada,1
+408,Customer408,Canada,customer408@scrunchieshop.ca,2024-07-18,New,Referral,Canada,3
+409,Customer409,Canada,customer409@scrunchieshop.ca,2024-11-07,New,Email,Canada,2
+410,Customer410,Canada,customer410@scrunchieshop.ca,2024-12-14,VIP,Email,Canada,4
+411,Customer411,Canada,customer411@scrunchieshop.ca,2024-04-02,New,Email,Canada,2
+412,Customer412,Canada,customer412@scrunchieshop.ca,2023-03-24,Returning,Referral,Canada,1
+413,Customer413,Canada,customer413@scrunchieshop.ca,2023-05-25,New,Referral,Canada,2
+414,Customer414,Canada,customer414@scrunchieshop.ca,2023-03-26,Returning,Paid Ads,Canada,1
+415,Customer415,Canada,customer415@scrunchieshop.ca,2023-03-19,New,Organic,Canada,2
+416,Customer416,Canada,customer416@scrunchieshop.ca,2024-04-01,New,Email,Canada,3
+417,Customer417,Canada,customer417@scrunchieshop.ca,2023-01-01,VIP,Email,Canada,5
+418,Customer418,Canada,customer418@scrunchieshop.ca,2023-02-20,New,Organic,Canada,3
+419,Customer419,Canada,customer419@scrunchieshop.ca,2024-11-15,Returning,Email,Canada,3
+420,Customer420,Canada,customer420@scrunchieshop.ca,2024-12-17,New,Referral,Canada,5
+421,Customer421,Canada,customer421@scrunchieshop.ca,2024-03-21,Returning,Referral,Canada,5
+422,Customer422,Canada,customer422@scrunchieshop.ca,2024-03-24,New,Email,Canada,4
+423,Customer423,Canada,customer423@scrunchieshop.ca,2024-05-02,VIP,Referral,Canada,4
+424,Customer424,Canada,customer424@scrunchieshop.ca,2023-02-03,New,Referral,Canada,3
+425,Customer425,Canada,customer425@scrunchieshop.ca,2023-12-14,New,Email,Canada,3
+426,Customer426,Canada,customer426@scrunchieshop.ca,2023-04-05,New,Paid Ads,Canada,1
+427,Customer427,Canada,customer427@scrunchieshop.ca,2023-03-13,New,Organic,Canada,1
+428,Customer428,Canada,customer428@scrunchieshop.ca,2024-07-04,Returning,Referral,Canada,4
+429,Customer429,Canada,customer429@scrunchieshop.ca,2023-06-03,New,Paid Ads,Canada,6
+430,Customer430,Canada,customer430@scrunchieshop.ca,2023-09-07,Returning,Referral,Canada,6
+431,Customer431,Canada,customer431@scrunchieshop.ca,2024-11-04,New,Referral,Canada,4
+432,Customer432,Canada,customer432@scrunchieshop.ca,2024-03-13,New,Organic,Canada,1
+433,Customer433,Canada,customer433@scrunchieshop.ca,2023-04-28,Returning,Referral,Canada,1
+434,Customer434,Canada,customer434@scrunchieshop.ca,2023-11-02,Returning,Organic,Canada,6
+435,Customer435,Canada,customer435@scrunchieshop.ca,2023-09-25,New,Organic,Canada,2
+436,Customer436,Canada,customer436@scrunchieshop.ca,2023-02-23,New,Organic,Canada,2
+437,Customer437,Canada,customer437@scrunchieshop.ca,2023-08-24,New,Paid Ads,Canada,1
+438,Customer438,Canada,customer438@scrunchieshop.ca,2024-01-24,Returning,Email,Canada,2
+439,Customer439,Canada,customer439@scrunchieshop.ca,2024-02-05,Returning,Paid Ads,Canada,5
+440,Customer440,Canada,customer440@scrunchieshop.ca,2024-09-15,New,Email,Canada,4
+441,Customer441,Canada,customer441@scrunchieshop.ca,2023-10-30,Returning,Email,Canada,4
+442,Customer442,Canada,customer442@scrunchieshop.ca,2023-07-26,Returning,Organic,Canada,1
+443,Customer443,Canada,customer443@scrunchieshop.ca,2023-08-17,Returning,Referral,Canada,3
+444,Customer444,Canada,customer444@scrunchieshop.ca,2024-07-31,VIP,Organic,Canada,6
+445,Customer445,Canada,customer445@scrunchieshop.ca,2023-03-16,New,Referral,Canada,1
+446,Customer446,Canada,customer446@scrunchieshop.ca,2024-03-10,New,Email,Canada,2
+447,Customer447,Canada,customer447@scrunchieshop.ca,2023-04-13,New,Organic,Canada,6
+448,Customer448,Canada,customer448@scrunchieshop.ca,2024-02-26,New,Referral,Canada,3
+449,Customer449,Canada,customer449@scrunchieshop.ca,2024-12-04,Returning,Paid Ads,Canada,2
+450,Customer450,Canada,customer450@scrunchieshop.ca,2023-11-02,VIP,Referral,Canada,5
+451,Customer451,Canada,customer451@scrunchieshop.ca,2023-04-08,New,Organic,Canada,2
+452,Customer452,Canada,customer452@scrunchieshop.ca,2023-12-01,New,Paid Ads,Canada,5
+453,Customer453,Canada,customer453@scrunchieshop.ca,2024-03-10,New,Referral,Canada,6
+454,Customer454,Canada,customer454@scrunchieshop.ca,2024-03-22,VIP,Referral,Canada,5
+455,Customer455,Canada,customer455@scrunchieshop.ca,2023-11-04,New,Referral,Canada,6
+456,Customer456,Canada,customer456@scrunchieshop.ca,2023-09-06,Returning,Referral,Canada,6
+457,Customer457,Canada,customer457@scrunchieshop.ca,2023-06-15,New,Referral,Canada,6
+458,Customer458,Canada,customer458@scrunchieshop.ca,2024-04-25,New,Paid Ads,Canada,6
+459,Customer459,Canada,customer459@scrunchieshop.ca,2023-12-01,VIP,Email,Canada,6
+460,Customer460,Canada,customer460@scrunchieshop.ca,2024-06-25,VIP,Paid Ads,Canada,2
+461,Customer461,Canada,customer461@scrunchieshop.ca,2023-04-16,New,Paid Ads,Canada,6
+462,Customer462,Canada,customer462@scrunchieshop.ca,2024-07-16,VIP,Paid Ads,Canada,2
+463,Customer463,Canada,customer463@scrunchieshop.ca,2023-03-22,Returning,Email,Canada,6
+464,Customer464,Canada,customer464@scrunchieshop.ca,2023-05-13,VIP,Organic,Canada,5
+465,Customer465,Canada,customer465@scrunchieshop.ca,2023-05-18,New,Email,Canada,6
+466,Customer466,Canada,customer466@scrunchieshop.ca,2023-07-03,Returning,Paid Ads,Canada,3
+467,Customer467,Canada,customer467@scrunchieshop.ca,2024-02-05,New,Referral,Canada,6
+468,Customer468,Canada,customer468@scrunchieshop.ca,2023-11-26,Returning,Referral,Canada,6
+469,Customer469,Canada,customer469@scrunchieshop.ca,2024-05-22,New,Paid Ads,Canada,5
+470,Customer470,Canada,customer470@scrunchieshop.ca,2023-03-10,New,Referral,Canada,4
+471,Customer471,Canada,customer471@scrunchieshop.ca,2024-06-29,New,Paid Ads,Canada,5
+472,Customer472,Canada,customer472@scrunchieshop.ca,2023-02-22,Returning,Referral,Canada,3
+473,Customer473,Canada,customer473@scrunchieshop.ca,2024-03-25,New,Email,Canada,4
+474,Customer474,Canada,customer474@scrunchieshop.ca,2023-07-24,Returning,Organic,Canada,1
+475,Customer475,Canada,customer475@scrunchieshop.ca,2023-05-06,VIP,Organic,Canada,1
+476,Customer476,Canada,customer476@scrunchieshop.ca,2023-02-12,New,Email,Canada,3
+477,Customer477,Canada,customer477@scrunchieshop.ca,2023-04-21,Returning,Email,Canada,5
+478,Customer478,Canada,customer478@scrunchieshop.ca,2024-10-24,New,Paid Ads,Canada,2
+479,Customer479,Canada,customer479@scrunchieshop.ca,2023-07-02,VIP,Paid Ads,Canada,3
+480,Customer480,Canada,customer480@scrunchieshop.ca,2023-04-05,New,Paid Ads,Canada,4
+481,Customer481,Canada,customer481@scrunchieshop.ca,2024-01-09,Returning,Referral,Canada,4
+482,Customer482,Canada,customer482@scrunchieshop.ca,2024-06-03,Returning,Paid Ads,Canada,6
+483,Customer483,Canada,customer483@scrunchieshop.ca,2023-12-26,VIP,Email,Canada,1
+484,Customer484,Canada,customer484@scrunchieshop.ca,2024-11-26,Returning,Organic,Canada,4
+485,Customer485,Canada,customer485@scrunchieshop.ca,2023-10-08,New,Referral,Canada,3
+486,Customer486,Canada,customer486@scrunchieshop.ca,2023-07-14,Returning,Paid Ads,Canada,4
+487,Customer487,Canada,customer487@scrunchieshop.ca,2023-07-14,VIP,Referral,Canada,3
+488,Customer488,Canada,customer488@scrunchieshop.ca,2024-10-28,Returning,Referral,Canada,2
+489,Customer489,Canada,customer489@scrunchieshop.ca,2023-04-03,New,Paid Ads,Canada,6
+490,Customer490,Canada,customer490@scrunchieshop.ca,2024-11-02,VIP,Referral,Canada,1
+491,Customer491,Canada,customer491@scrunchieshop.ca,2023-03-02,Returning,Organic,Canada,4
+492,Customer492,Canada,customer492@scrunchieshop.ca,2024-09-25,Returning,Email,Canada,3
+493,Customer493,Canada,customer493@scrunchieshop.ca,2023-02-20,New,Email,Canada,5
+494,Customer494,Canada,customer494@scrunchieshop.ca,2024-02-07,Returning,Organic,Canada,1
+495,Customer495,Canada,customer495@scrunchieshop.ca,2023-01-05,New,Referral,Canada,2
+496,Customer496,Canada,customer496@scrunchieshop.ca,2024-04-10,Returning,Paid Ads,Canada,3
+497,Customer497,Canada,customer497@scrunchieshop.ca,2024-08-26,New,Referral,Canada,6
+498,Customer498,Canada,customer498@scrunchieshop.ca,2024-11-12,Returning,Organic,Canada,6
+499,Customer499,Canada,customer499@scrunchieshop.ca,2024-06-17,VIP,Referral,Canada,2
+500,Customer500,Canada,customer500@scrunchieshop.ca,2024-02-09,New,Email,Canada,2
+501,Customer501,Canada,customer501@scrunchieshop.ca,2024-05-27,VIP,Referral,Canada,6
+502,Customer502,Canada,customer502@scrunchieshop.ca,2024-10-06,New,Organic,Canada,4
+503,Customer503,Canada,customer503@scrunchieshop.ca,2023-08-21,VIP,Email,Canada,4
+504,Customer504,Canada,customer504@scrunchieshop.ca,2024-06-07,Returning,Referral,Canada,3
+505,Customer505,Canada,customer505@scrunchieshop.ca,2023-12-12,Returning,Referral,Canada,5
+506,Customer506,Canada,customer506@scrunchieshop.ca,2023-02-15,Returning,Email,Canada,3
+507,Customer507,Canada,customer507@scrunchieshop.ca,2024-06-29,VIP,Paid Ads,Canada,5
+508,Customer508,Canada,customer508@scrunchieshop.ca,2023-03-19,New,Email,Canada,2
+509,Customer509,Canada,customer509@scrunchieshop.ca,2023-03-14,New,Paid Ads,Canada,1
+510,Customer510,Canada,customer510@scrunchieshop.ca,2023-09-06,Returning,Organic,Canada,3
+511,Customer511,Canada,customer511@scrunchieshop.ca,2023-02-16,Returning,Organic,Canada,3
+512,Customer512,Canada,customer512@scrunchieshop.ca,2023-05-01,Returning,Email,Canada,5
+513,Customer513,Canada,customer513@scrunchieshop.ca,2023-08-02,Returning,Email,Canada,2
+514,Customer514,Canada,customer514@scrunchieshop.ca,2023-08-27,New,Organic,Canada,2
+515,Customer515,Canada,customer515@scrunchieshop.ca,2023-02-25,Returning,Paid Ads,Canada,5
+516,Customer516,Canada,customer516@scrunchieshop.ca,2023-12-16,New,Organic,Canada,2
+517,Customer517,Canada,customer517@scrunchieshop.ca,2023-04-17,Returning,Email,Canada,6
+518,Customer518,Canada,customer518@scrunchieshop.ca,2023-02-17,New,Organic,Canada,4
+519,Customer519,Canada,customer519@scrunchieshop.ca,2024-07-26,New,Email,Canada,6
+520,Customer520,Canada,customer520@scrunchieshop.ca,2023-12-03,New,Email,Canada,1
+521,Customer521,Canada,customer521@scrunchieshop.ca,2023-01-26,New,Organic,Canada,3
+522,Customer522,Canada,customer522@scrunchieshop.ca,2023-09-14,Returning,Paid Ads,Canada,1
+523,Customer523,Canada,customer523@scrunchieshop.ca,2023-01-08,New,Referral,Canada,3
+524,Customer524,Canada,customer524@scrunchieshop.ca,2024-09-16,New,Organic,Canada,4
+525,Customer525,Canada,customer525@scrunchieshop.ca,2023-09-10,New,Referral,Canada,2
+526,Customer526,Canada,customer526@scrunchieshop.ca,2024-11-22,New,Organic,Canada,6
+527,Customer527,Canada,customer527@scrunchieshop.ca,2024-12-19,New,Referral,Canada,5
+528,Customer528,Canada,customer528@scrunchieshop.ca,2023-10-30,New,Paid Ads,Canada,6
+529,Customer529,Canada,customer529@scrunchieshop.ca,2024-09-30,Returning,Paid Ads,Canada,4
+530,Customer530,Canada,customer530@scrunchieshop.ca,2023-02-25,Returning,Organic,Canada,1
+531,Customer531,Canada,customer531@scrunchieshop.ca,2024-06-09,Returning,Email,Canada,5
+532,Customer532,Canada,customer532@scrunchieshop.ca,2024-04-18,New,Referral,Canada,2
+533,Customer533,Canada,customer533@scrunchieshop.ca,2023-01-28,New,Email,Canada,4
+534,Customer534,Canada,customer534@scrunchieshop.ca,2023-03-19,VIP,Email,Canada,5
+535,Customer535,Canada,customer535@scrunchieshop.ca,2023-08-04,Returning,Email,Canada,4
+536,Customer536,Canada,customer536@scrunchieshop.ca,2024-01-21,New,Paid Ads,Canada,4
+537,Customer537,Canada,customer537@scrunchieshop.ca,2023-12-31,New,Organic,Canada,2
+538,Customer538,Canada,customer538@scrunchieshop.ca,2024-10-27,New,Organic,Canada,3
+539,Customer539,Canada,customer539@scrunchieshop.ca,2024-06-09,New,Paid Ads,Canada,5
+540,Customer540,Canada,customer540@scrunchieshop.ca,2024-11-29,New,Paid Ads,Canada,2
+541,Customer541,Canada,customer541@scrunchieshop.ca,2023-11-08,Returning,Organic,Canada,4
+542,Customer542,Canada,customer542@scrunchieshop.ca,2023-01-07,Returning,Email,Canada,2
+543,Customer543,Canada,customer543@scrunchieshop.ca,2023-01-03,Returning,Referral,Canada,3
+544,Customer544,Canada,customer544@scrunchieshop.ca,2024-09-14,Returning,Referral,Canada,6
+545,Customer545,Canada,customer545@scrunchieshop.ca,2023-12-29,Returning,Referral,Canada,5
+546,Customer546,Canada,customer546@scrunchieshop.ca,2024-05-22,Returning,Email,Canada,3
+547,Customer547,Canada,customer547@scrunchieshop.ca,2023-10-01,VIP,Organic,Canada,1
+548,Customer548,Canada,customer548@scrunchieshop.ca,2024-05-20,New,Paid Ads,Canada,5
+549,Customer549,Canada,customer549@scrunchieshop.ca,2023-01-15,New,Organic,Canada,3
+550,Customer550,Canada,customer550@scrunchieshop.ca,2023-07-11,New,Email,Canada,4
+551,Customer551,Canada,customer551@scrunchieshop.ca,2024-09-22,Returning,Paid Ads,Canada,5
+552,Customer552,Canada,customer552@scrunchieshop.ca,2024-04-29,VIP,Email,Canada,5
+553,Customer553,Canada,customer553@scrunchieshop.ca,2023-01-28,New,Referral,Canada,2
+554,Customer554,Canada,customer554@scrunchieshop.ca,2024-12-14,VIP,Referral,Canada,4
+555,Customer555,Canada,customer555@scrunchieshop.ca,2023-02-08,New,Email,Canada,1
+556,Customer556,Canada,customer556@scrunchieshop.ca,2023-09-30,VIP,Paid Ads,Canada,6
+557,Customer557,Canada,customer557@scrunchieshop.ca,2023-08-19,New,Paid Ads,Canada,3
+558,Customer558,Canada,customer558@scrunchieshop.ca,2023-03-27,New,Organic,Canada,2
+559,Customer559,Canada,customer559@scrunchieshop.ca,2024-04-18,New,Referral,Canada,3
+560,Customer560,Canada,customer560@scrunchieshop.ca,2023-05-06,New,Organic,Canada,1
+561,Customer561,Canada,customer561@scrunchieshop.ca,2024-06-20,New,Organic,Canada,1
+562,Customer562,Canada,customer562@scrunchieshop.ca,2023-05-25,New,Email,Canada,5
+563,Customer563,Canada,customer563@scrunchieshop.ca,2024-06-08,Returning,Email,Canada,1
+564,Customer564,Canada,customer564@scrunchieshop.ca,2023-07-31,Returning,Organic,Canada,3
+565,Customer565,Canada,customer565@scrunchieshop.ca,2023-01-25,New,Referral,Canada,4
+566,Customer566,Canada,customer566@scrunchieshop.ca,2024-08-02,Returning,Email,Canada,4
+567,Customer567,Canada,customer567@scrunchieshop.ca,2024-01-29,Returning,Organic,Canada,5
+568,Customer568,Canada,customer568@scrunchieshop.ca,2023-03-08,New,Organic,Canada,6
+569,Customer569,Canada,customer569@scrunchieshop.ca,2023-08-21,New,Organic,Canada,3
+570,Customer570,Canada,customer570@scrunchieshop.ca,2023-04-19,New,Organic,Canada,3
+571,Customer571,Canada,customer571@scrunchieshop.ca,2023-05-26,New,Organic,Canada,1
+572,Customer572,Canada,customer572@scrunchieshop.ca,2023-04-21,Returning,Organic,Canada,3
+573,Customer573,Canada,customer573@scrunchieshop.ca,2023-08-16,New,Email,Canada,2
+574,Customer574,Canada,customer574@scrunchieshop.ca,2023-04-21,Returning,Referral,Canada,6
+575,Customer575,Canada,customer575@scrunchieshop.ca,2024-04-14,Returning,Organic,Canada,1
+576,Customer576,Canada,customer576@scrunchieshop.ca,2023-02-03,New,Paid Ads,Canada,2
+577,Customer577,Canada,customer577@scrunchieshop.ca,2024-09-14,Returning,Email,Canada,5
+578,Customer578,Canada,customer578@scrunchieshop.ca,2024-01-04,New,Email,Canada,4
+579,Customer579,Canada,customer579@scrunchieshop.ca,2024-08-17,VIP,Organic,Canada,5
+580,Customer580,Canada,customer580@scrunchieshop.ca,2024-07-07,New,Email,Canada,4
+581,Customer581,Canada,customer581@scrunchieshop.ca,2024-02-29,Returning,Organic,Canada,5
+582,Customer582,Canada,customer582@scrunchieshop.ca,2024-09-04,Returning,Referral,Canada,3
+583,Customer583,Canada,customer583@scrunchieshop.ca,2024-06-01,New,Referral,Canada,2
+584,Customer584,Canada,customer584@scrunchieshop.ca,2024-11-22,Returning,Email,Canada,4
+585,Customer585,Canada,customer585@scrunchieshop.ca,2023-10-09,VIP,Email,Canada,1
+586,Customer586,Canada,customer586@scrunchieshop.ca,2023-11-16,Returning,Paid Ads,Canada,2
+587,Customer587,Canada,customer587@scrunchieshop.ca,2024-03-18,Returning,Email,Canada,1
+588,Customer588,Canada,customer588@scrunchieshop.ca,2023-11-11,VIP,Paid Ads,Canada,2
+589,Customer589,Canada,customer589@scrunchieshop.ca,2024-01-12,New,Referral,Canada,2
+590,Customer590,Canada,customer590@scrunchieshop.ca,2023-10-16,New,Referral,Canada,5
+591,Customer591,Canada,customer591@scrunchieshop.ca,2024-03-12,Returning,Organic,Canada,4
+592,Customer592,Canada,customer592@scrunchieshop.ca,2024-10-23,New,Referral,Canada,4
+593,Customer593,Canada,customer593@scrunchieshop.ca,2023-10-04,Returning,Paid Ads,Canada,2
+594,Customer594,Canada,customer594@scrunchieshop.ca,2024-12-10,VIP,Email,Canada,3
+595,Customer595,Canada,customer595@scrunchieshop.ca,2024-08-04,New,Organic,Canada,3
+596,Customer596,Canada,customer596@scrunchieshop.ca,2024-05-17,New,Paid Ads,Canada,1
+597,Customer597,Canada,customer597@scrunchieshop.ca,2024-09-15,Returning,Email,Canada,1
+598,Customer598,Canada,customer598@scrunchieshop.ca,2024-05-30,New,Organic,Canada,5
+599,Customer599,Canada,customer599@scrunchieshop.ca,2023-12-16,Returning,Referral,Canada,2
+600,Customer600,Canada,customer600@scrunchieshop.ca,2024-03-21,New,Paid Ads,Canada,1
+601,Customer601,Canada,customer601@scrunchieshop.ca,2023-12-16,Returning,Email,Canada,1
+602,Customer602,Canada,customer602@scrunchieshop.ca,2024-08-29,New,Organic,Canada,6
+603,Customer603,Canada,customer603@scrunchieshop.ca,2024-10-25,Returning,Organic,Canada,2
+604,Customer604,Canada,customer604@scrunchieshop.ca,2023-05-17,New,Referral,Canada,5
+605,Customer605,Canada,customer605@scrunchieshop.ca,2023-08-31,Returning,Email,Canada,1
+606,Customer606,Canada,customer606@scrunchieshop.ca,2024-06-26,New,Referral,Canada,5
+607,Customer607,Canada,customer607@scrunchieshop.ca,2023-02-09,Returning,Referral,Canada,4
+608,Customer608,Canada,customer608@scrunchieshop.ca,2023-08-17,VIP,Email,Canada,5
+609,Customer609,Canada,customer609@scrunchieshop.ca,2024-07-01,New,Email,Canada,3
+610,Customer610,Canada,customer610@scrunchieshop.ca,2023-08-11,New,Email,Canada,3
+611,Customer611,Canada,customer611@scrunchieshop.ca,2023-01-06,New,Paid Ads,Canada,5
+612,Customer612,Canada,customer612@scrunchieshop.ca,2023-11-18,Returning,Email,Canada,3
+613,Customer613,Canada,customer613@scrunchieshop.ca,2024-04-12,Returning,Organic,Canada,4
+614,Customer614,Canada,customer614@scrunchieshop.ca,2023-03-16,Returning,Referral,Canada,2
+615,Customer615,Canada,customer615@scrunchieshop.ca,2023-01-04,New,Paid Ads,Canada,3
+616,Customer616,Canada,customer616@scrunchieshop.ca,2024-10-07,New,Email,Canada,3
+617,Customer617,Canada,customer617@scrunchieshop.ca,2023-04-28,Returning,Paid Ads,Canada,5
+618,Customer618,Canada,customer618@scrunchieshop.ca,2024-08-28,New,Email,Canada,4
+619,Customer619,Canada,customer619@scrunchieshop.ca,2024-05-18,VIP,Paid Ads,Canada,2
+620,Customer620,Canada,customer620@scrunchieshop.ca,2024-07-27,New,Referral,Canada,5
+621,Customer621,Canada,customer621@scrunchieshop.ca,2024-03-16,Returning,Referral,Canada,5
+622,Customer622,Canada,customer622@scrunchieshop.ca,2023-07-13,New,Organic,Canada,6
+623,Customer623,Canada,customer623@scrunchieshop.ca,2024-12-15,New,Organic,Canada,4
+624,Customer624,Canada,customer624@scrunchieshop.ca,2024-01-27,Returning,Email,Canada,2
+625,Customer625,Canada,customer625@scrunchieshop.ca,2023-01-26,Returning,Referral,Canada,4
+626,Customer626,Canada,customer626@scrunchieshop.ca,2024-03-10,VIP,Paid Ads,Canada,2
+627,Customer627,Canada,customer627@scrunchieshop.ca,2023-06-22,New,Paid Ads,Canada,4
+628,Customer628,Canada,customer628@scrunchieshop.ca,2023-10-27,New,Paid Ads,Canada,5
+629,Customer629,Canada,customer629@scrunchieshop.ca,2024-10-06,Returning,Organic,Canada,5
+630,Customer630,Canada,customer630@scrunchieshop.ca,2023-11-22,Returning,Paid Ads,Canada,1
+631,Customer631,Canada,customer631@scrunchieshop.ca,2024-02-14,New,Organic,Canada,3
+632,Customer632,Canada,customer632@scrunchieshop.ca,2023-04-28,New,Organic,Canada,6
+633,Customer633,Canada,customer633@scrunchieshop.ca,2023-08-13,New,Email,Canada,4
+634,Customer634,Canada,customer634@scrunchieshop.ca,2024-06-15,VIP,Paid Ads,Canada,6
+635,Customer635,Canada,customer635@scrunchieshop.ca,2023-04-23,New,Paid Ads,Canada,1
+636,Customer636,Canada,customer636@scrunchieshop.ca,2023-05-20,New,Referral,Canada,3
+637,Customer637,Canada,customer637@scrunchieshop.ca,2024-07-12,New,Email,Canada,4
+638,Customer638,Canada,customer638@scrunchieshop.ca,2023-01-01,New,Referral,Canada,2
+639,Customer639,Canada,customer639@scrunchieshop.ca,2023-03-31,New,Email,Canada,3
+640,Customer640,Canada,customer640@scrunchieshop.ca,2024-10-15,Returning,Paid Ads,Canada,5
+641,Customer641,Canada,customer641@scrunchieshop.ca,2023-11-16,New,Organic,Canada,1
+642,Customer642,Canada,customer642@scrunchieshop.ca,2024-07-03,Returning,Organic,Canada,3
+643,Customer643,Canada,customer643@scrunchieshop.ca,2023-05-19,New,Organic,Canada,3
+644,Customer644,Canada,customer644@scrunchieshop.ca,2024-05-25,Returning,Organic,Canada,5
+645,Customer645,Canada,customer645@scrunchieshop.ca,2023-09-16,VIP,Organic,Canada,4
+646,Customer646,Canada,customer646@scrunchieshop.ca,2024-11-03,Returning,Referral,Canada,2
+647,Customer647,Canada,customer647@scrunchieshop.ca,2024-11-20,Returning,Email,Canada,5
+648,Customer648,Canada,customer648@scrunchieshop.ca,2023-01-10,New,Paid Ads,Canada,2
+649,Customer649,Canada,customer649@scrunchieshop.ca,2023-09-18,New,Referral,Canada,4
+650,Customer650,Canada,customer650@scrunchieshop.ca,2024-10-11,Returning,Email,Canada,3
+651,Customer651,Canada,customer651@scrunchieshop.ca,2023-06-21,VIP,Organic,Canada,2
+652,Customer652,Canada,customer652@scrunchieshop.ca,2023-01-13,Returning,Email,Canada,1
+653,Customer653,Canada,customer653@scrunchieshop.ca,2023-06-17,Returning,Email,Canada,1
+654,Customer654,Canada,customer654@scrunchieshop.ca,2024-10-03,Returning,Organic,Canada,5
+655,Customer655,Canada,customer655@scrunchieshop.ca,2024-08-18,New,Organic,Canada,4
+656,Customer656,Canada,customer656@scrunchieshop.ca,2023-11-17,New,Organic,Canada,5
+657,Customer657,Canada,customer657@scrunchieshop.ca,2023-11-15,Returning,Paid Ads,Canada,5
+658,Customer658,Canada,customer658@scrunchieshop.ca,2024-09-04,VIP,Organic,Canada,6
+659,Customer659,Canada,customer659@scrunchieshop.ca,2023-11-25,New,Paid Ads,Canada,5
+660,Customer660,Canada,customer660@scrunchieshop.ca,2024-07-03,Returning,Organic,Canada,6
+661,Customer661,Canada,customer661@scrunchieshop.ca,2024-02-23,New,Paid Ads,Canada,1
+662,Customer662,Canada,customer662@scrunchieshop.ca,2024-08-28,Returning,Email,Canada,1
+663,Customer663,Canada,customer663@scrunchieshop.ca,2023-04-05,New,Referral,Canada,5
+664,Customer664,Canada,customer664@scrunchieshop.ca,2024-08-03,New,Email,Canada,1
+665,Customer665,Canada,customer665@scrunchieshop.ca,2023-11-14,Returning,Email,Canada,4
+666,Customer666,Canada,customer666@scrunchieshop.ca,2023-08-24,New,Organic,Canada,6
+667,Customer667,Canada,customer667@scrunchieshop.ca,2023-11-30,Returning,Paid Ads,Canada,6
+668,Customer668,Canada,customer668@scrunchieshop.ca,2024-01-11,Returning,Referral,Canada,5
+669,Customer669,Canada,customer669@scrunchieshop.ca,2024-04-03,VIP,Organic,Canada,1
+670,Customer670,Canada,customer670@scrunchieshop.ca,2023-05-17,New,Organic,Canada,2
+671,Customer671,Canada,customer671@scrunchieshop.ca,2024-08-10,New,Organic,Canada,6
+672,Customer672,Canada,customer672@scrunchieshop.ca,2024-06-30,New,Email,Canada,5
+673,Customer673,Canada,customer673@scrunchieshop.ca,2024-05-27,VIP,Paid Ads,Canada,5
+674,Customer674,Canada,customer674@scrunchieshop.ca,2023-10-23,VIP,Paid Ads,Canada,4
+675,Customer675,Canada,customer675@scrunchieshop.ca,2023-11-16,Returning,Referral,Canada,3
+676,Customer676,Canada,customer676@scrunchieshop.ca,2024-07-25,Returning,Paid Ads,Canada,3
+677,Customer677,Canada,customer677@scrunchieshop.ca,2023-12-15,Returning,Paid Ads,Canada,6
+678,Customer678,Canada,customer678@scrunchieshop.ca,2023-08-17,Returning,Organic,Canada,4
+679,Customer679,Canada,customer679@scrunchieshop.ca,2023-09-27,New,Organic,Canada,4
+680,Customer680,Canada,customer680@scrunchieshop.ca,2023-10-18,Returning,Email,Canada,4
+681,Customer681,Canada,customer681@scrunchieshop.ca,2023-06-14,New,Organic,Canada,6
+682,Customer682,Canada,customer682@scrunchieshop.ca,2023-01-05,Returning,Organic,Canada,3
+683,Customer683,Canada,customer683@scrunchieshop.ca,2024-01-14,Returning,Organic,Canada,4
+684,Customer684,Canada,customer684@scrunchieshop.ca,2023-03-19,Returning,Organic,Canada,1
+685,Customer685,Canada,customer685@scrunchieshop.ca,2024-02-14,New,Email,Canada,5
+686,Customer686,Canada,customer686@scrunchieshop.ca,2024-07-27,New,Organic,Canada,5
+687,Customer687,Canada,customer687@scrunchieshop.ca,2023-05-12,New,Referral,Canada,2
+688,Customer688,Canada,customer688@scrunchieshop.ca,2024-08-23,New,Referral,Canada,2
+689,Customer689,Canada,customer689@scrunchieshop.ca,2023-02-11,New,Referral,Canada,6
+690,Customer690,Canada,customer690@scrunchieshop.ca,2023-03-30,VIP,Referral,Canada,6
+691,Customer691,Canada,customer691@scrunchieshop.ca,2024-02-06,Returning,Organic,Canada,5
+692,Customer692,Canada,customer692@scrunchieshop.ca,2023-10-23,New,Referral,Canada,1
+693,Customer693,Canada,customer693@scrunchieshop.ca,2023-10-22,New,Organic,Canada,3
+694,Customer694,Canada,customer694@scrunchieshop.ca,2024-09-07,New,Email,Canada,3
+695,Customer695,Canada,customer695@scrunchieshop.ca,2024-06-09,Returning,Referral,Canada,6
+696,Customer696,Canada,customer696@scrunchieshop.ca,2024-11-21,Returning,Paid Ads,Canada,1
+697,Customer697,Canada,customer697@scrunchieshop.ca,2024-09-28,VIP,Referral,Canada,6
+698,Customer698,Canada,customer698@scrunchieshop.ca,2024-02-26,New,Referral,Canada,3
+699,Customer699,Canada,customer699@scrunchieshop.ca,2023-01-23,VIP,Organic,Canada,6
+700,Customer700,Canada,customer700@scrunchieshop.ca,2024-07-28,VIP,Referral,Canada,4
+701,Customer701,Canada,customer701@scrunchieshop.ca,2023-05-23,New,Paid Ads,Canada,6
+702,Customer702,Canada,customer702@scrunchieshop.ca,2024-10-26,VIP,Organic,Canada,5
+703,Customer703,Canada,customer703@scrunchieshop.ca,2023-05-25,New,Organic,Canada,6
+704,Customer704,Canada,customer704@scrunchieshop.ca,2023-08-13,Returning,Email,Canada,5
+705,Customer705,Canada,customer705@scrunchieshop.ca,2024-05-17,New,Email,Canada,1
+706,Customer706,Canada,customer706@scrunchieshop.ca,2024-09-07,VIP,Referral,Canada,3
+707,Customer707,Canada,customer707@scrunchieshop.ca,2023-04-14,VIP,Email,Canada,2
+708,Customer708,Canada,customer708@scrunchieshop.ca,2023-02-08,Returning,Email,Canada,2
+709,Customer709,Canada,customer709@scrunchieshop.ca,2023-07-17,Returning,Email,Canada,3
+710,Customer710,Canada,customer710@scrunchieshop.ca,2024-10-07,New,Organic,Canada,2
+711,Customer711,Canada,customer711@scrunchieshop.ca,2024-08-01,New,Organic,Canada,6
+712,Customer712,Canada,customer712@scrunchieshop.ca,2024-01-26,New,Organic,Canada,1
+713,Customer713,Canada,customer713@scrunchieshop.ca,2023-06-28,New,Email,Canada,1
+714,Customer714,Canada,customer714@scrunchieshop.ca,2024-07-07,Returning,Organic,Canada,3
+715,Customer715,Canada,customer715@scrunchieshop.ca,2024-03-23,New,Email,Canada,2
+716,Customer716,Canada,customer716@scrunchieshop.ca,2024-05-14,VIP,Organic,Canada,6
+717,Customer717,Canada,customer717@scrunchieshop.ca,2023-01-15,Returning,Organic,Canada,1
+718,Customer718,Canada,customer718@scrunchieshop.ca,2024-09-14,Returning,Paid Ads,Canada,1
+719,Customer719,Canada,customer719@scrunchieshop.ca,2024-10-30,New,Referral,Canada,4
+720,Customer720,Canada,customer720@scrunchieshop.ca,2023-10-16,VIP,Email,Canada,4
+721,Customer721,Canada,customer721@scrunchieshop.ca,2024-04-22,VIP,Paid Ads,Canada,1
+722,Customer722,Canada,customer722@scrunchieshop.ca,2023-08-19,New,Organic,Canada,3
+723,Customer723,Canada,customer723@scrunchieshop.ca,2024-02-24,Returning,Email,Canada,5
+724,Customer724,Canada,customer724@scrunchieshop.ca,2023-06-06,Returning,Organic,Canada,5
+725,Customer725,Canada,customer725@scrunchieshop.ca,2024-07-03,New,Referral,Canada,6
+726,Customer726,Canada,customer726@scrunchieshop.ca,2024-03-16,Returning,Paid Ads,Canada,1
+727,Customer727,Canada,customer727@scrunchieshop.ca,2023-04-07,New,Referral,Canada,1
+728,Customer728,Canada,customer728@scrunchieshop.ca,2024-02-15,New,Paid Ads,Canada,1
+729,Customer729,Canada,customer729@scrunchieshop.ca,2023-10-16,New,Organic,Canada,3
+730,Customer730,Canada,customer730@scrunchieshop.ca,2023-09-11,New,Referral,Canada,4
+731,Customer731,Canada,customer731@scrunchieshop.ca,2023-07-15,New,Referral,Canada,1
+732,Customer732,Canada,customer732@scrunchieshop.ca,2024-08-20,New,Organic,Canada,1
+733,Customer733,Canada,customer733@scrunchieshop.ca,2024-06-05,VIP,Referral,Canada,2
+734,Customer734,Canada,customer734@scrunchieshop.ca,2024-05-31,Returning,Email,Canada,3
+735,Customer735,Canada,customer735@scrunchieshop.ca,2024-09-26,VIP,Paid Ads,Canada,6
+736,Customer736,Canada,customer736@scrunchieshop.ca,2023-04-28,New,Paid Ads,Canada,1
+737,Customer737,Canada,customer737@scrunchieshop.ca,2023-06-08,New,Paid Ads,Canada,2
+738,Customer738,Canada,customer738@scrunchieshop.ca,2023-08-16,Returning,Email,Canada,5
+739,Customer739,Canada,customer739@scrunchieshop.ca,2023-08-04,New,Paid Ads,Canada,6
+740,Customer740,Canada,customer740@scrunchieshop.ca,2024-11-26,New,Organic,Canada,1
+741,Customer741,Canada,customer741@scrunchieshop.ca,2023-01-15,Returning,Referral,Canada,1
+742,Customer742,Canada,customer742@scrunchieshop.ca,2023-06-06,New,Email,Canada,2
+743,Customer743,Canada,customer743@scrunchieshop.ca,2024-10-09,Returning,Paid Ads,Canada,3
+744,Customer744,Canada,customer744@scrunchieshop.ca,2023-09-18,Returning,Organic,Canada,1
+745,Customer745,Canada,customer745@scrunchieshop.ca,2023-06-06,New,Referral,Canada,5
+746,Customer746,Canada,customer746@scrunchieshop.ca,2023-02-16,New,Referral,Canada,1
+747,Customer747,Canada,customer747@scrunchieshop.ca,2023-11-20,Returning,Email,Canada,5
+748,Customer748,Canada,customer748@scrunchieshop.ca,2024-11-15,New,Email,Canada,6
+749,Customer749,Canada,customer749@scrunchieshop.ca,2023-05-10,New,Email,Canada,6
+750,Customer750,Canada,customer750@scrunchieshop.ca,2024-02-15,VIP,Organic,Canada,4
+751,Customer751,Canada,customer751@scrunchieshop.ca,2023-04-05,New,Organic,Canada,4
+752,Customer752,Canada,customer752@scrunchieshop.ca,2024-09-18,Returning,Email,Canada,5
+753,Customer753,Canada,customer753@scrunchieshop.ca,2023-10-19,VIP,Paid Ads,Canada,3
+754,Customer754,Canada,customer754@scrunchieshop.ca,2023-10-10,New,Referral,Canada,1
+755,Customer755,Canada,customer755@scrunchieshop.ca,2023-03-10,New,Referral,Canada,1
+756,Customer756,Canada,customer756@scrunchieshop.ca,2024-10-21,New,Organic,Canada,4
+757,Customer757,Canada,customer757@scrunchieshop.ca,2023-01-11,New,Referral,Canada,5
+758,Customer758,Canada,customer758@scrunchieshop.ca,2023-09-11,New,Paid Ads,Canada,1
+759,Customer759,Canada,customer759@scrunchieshop.ca,2024-07-03,Returning,Referral,Canada,1
+760,Customer760,Canada,customer760@scrunchieshop.ca,2023-05-14,New,Organic,Canada,3
+761,Customer761,Canada,customer761@scrunchieshop.ca,2024-12-12,Returning,Organic,Canada,2
+762,Customer762,Canada,customer762@scrunchieshop.ca,2023-01-23,VIP,Paid Ads,Canada,4
+763,Customer763,Canada,customer763@scrunchieshop.ca,2023-12-12,Returning,Paid Ads,Canada,4
+764,Customer764,Canada,customer764@scrunchieshop.ca,2023-10-29,Returning,Referral,Canada,2
+765,Customer765,Canada,customer765@scrunchieshop.ca,2023-12-29,New,Referral,Canada,1
+766,Customer766,Canada,customer766@scrunchieshop.ca,2024-01-31,Returning,Organic,Canada,3
+767,Customer767,Canada,customer767@scrunchieshop.ca,2023-08-06,Returning,Paid Ads,Canada,3
+768,Customer768,Canada,customer768@scrunchieshop.ca,2023-05-21,New,Paid Ads,Canada,4
+769,Customer769,Canada,customer769@scrunchieshop.ca,2024-09-07,New,Paid Ads,Canada,3
+770,Customer770,Canada,customer770@scrunchieshop.ca,2023-07-29,VIP,Referral,Canada,6
+771,Customer771,Canada,customer771@scrunchieshop.ca,2024-09-14,New,Paid Ads,Canada,2
+772,Customer772,Canada,customer772@scrunchieshop.ca,2024-09-07,New,Organic,Canada,1
+773,Customer773,Canada,customer773@scrunchieshop.ca,2024-11-13,New,Organic,Canada,6
+774,Customer774,Canada,customer774@scrunchieshop.ca,2024-04-04,New,Referral,Canada,2
+775,Customer775,Canada,customer775@scrunchieshop.ca,2023-12-22,Returning,Email,Canada,5
+776,Customer776,Canada,customer776@scrunchieshop.ca,2023-11-20,Returning,Referral,Canada,4
+777,Customer777,Canada,customer777@scrunchieshop.ca,2023-05-13,Returning,Email,Canada,3
+778,Customer778,Canada,customer778@scrunchieshop.ca,2023-05-07,New,Paid Ads,Canada,5
+779,Customer779,Canada,customer779@scrunchieshop.ca,2023-04-16,New,Referral,Canada,3
+780,Customer780,Canada,customer780@scrunchieshop.ca,2024-08-26,New,Organic,Canada,6
+781,Customer781,Canada,customer781@scrunchieshop.ca,2024-01-13,New,Paid Ads,Canada,1
+782,Customer782,Canada,customer782@scrunchieshop.ca,2023-02-20,New,Organic,Canada,1
+783,Customer783,Canada,customer783@scrunchieshop.ca,2023-01-29,Returning,Paid Ads,Canada,1
+784,Customer784,Canada,customer784@scrunchieshop.ca,2024-04-06,New,Referral,Canada,3
+785,Customer785,Canada,customer785@scrunchieshop.ca,2023-10-23,Returning,Email,Canada,5
+786,Customer786,Canada,customer786@scrunchieshop.ca,2023-10-24,New,Paid Ads,Canada,1
+787,Customer787,Canada,customer787@scrunchieshop.ca,2024-02-11,New,Email,Canada,5
+788,Customer788,Canada,customer788@scrunchieshop.ca,2024-09-04,New,Paid Ads,Canada,3
+789,Customer789,Canada,customer789@scrunchieshop.ca,2024-02-09,VIP,Organic,Canada,6
+790,Customer790,Canada,customer790@scrunchieshop.ca,2023-12-12,Returning,Organic,Canada,5
+791,Customer791,Canada,customer791@scrunchieshop.ca,2024-09-13,VIP,Paid Ads,Canada,6
+792,Customer792,Canada,customer792@scrunchieshop.ca,2024-02-24,New,Email,Canada,3
+793,Customer793,Canada,customer793@scrunchieshop.ca,2023-07-01,New,Referral,Canada,3
+794,Customer794,Canada,customer794@scrunchieshop.ca,2023-01-01,Returning,Referral,Canada,4
+795,Customer795,Canada,customer795@scrunchieshop.ca,2024-07-20,New,Organic,Canada,3
+796,Customer796,Canada,customer796@scrunchieshop.ca,2024-01-06,Returning,Referral,Canada,3
+797,Customer797,Canada,customer797@scrunchieshop.ca,2024-10-22,New,Organic,Canada,2
+798,Customer798,Canada,customer798@scrunchieshop.ca,2024-03-06,New,Referral,Canada,1
+799,Customer799,Canada,customer799@scrunchieshop.ca,2023-11-05,New,Paid Ads,Canada,4
+800,Customer800,Canada,customer800@scrunchieshop.ca,2023-05-17,New,Organic,Canada,4
+801,Customer801,Canada,customer801@scrunchieshop.ca,2023-07-21,Returning,Organic,Canada,4
+802,Customer802,Canada,customer802@scrunchieshop.ca,2024-03-11,New,Paid Ads,Canada,2
+803,Customer803,Canada,customer803@scrunchieshop.ca,2023-11-09,New,Organic,Canada,6
+804,Customer804,Canada,customer804@scrunchieshop.ca,2023-04-27,New,Referral,Canada,3
+805,Customer805,Canada,customer805@scrunchieshop.ca,2024-10-27,New,Referral,Canada,1
+806,Customer806,Canada,customer806@scrunchieshop.ca,2024-07-28,Returning,Organic,Canada,5
+807,Customer807,Canada,customer807@scrunchieshop.ca,2023-09-01,VIP,Referral,Canada,6
+808,Customer808,Canada,customer808@scrunchieshop.ca,2024-06-20,VIP,Email,Canada,3
+809,Customer809,Canada,customer809@scrunchieshop.ca,2024-08-24,Returning,Organic,Canada,2
+810,Customer810,Canada,customer810@scrunchieshop.ca,2023-03-16,New,Paid Ads,Canada,3
+811,Customer811,Canada,customer811@scrunchieshop.ca,2024-01-21,Returning,Email,Canada,3
+812,Customer812,Canada,customer812@scrunchieshop.ca,2023-07-29,New,Organic,Canada,2
+813,Customer813,Canada,customer813@scrunchieshop.ca,2024-04-19,New,Paid Ads,Canada,4
+814,Customer814,Canada,customer814@scrunchieshop.ca,2024-02-22,Returning,Referral,Canada,4
+815,Customer815,Canada,customer815@scrunchieshop.ca,2023-12-13,New,Paid Ads,Canada,1
+816,Customer816,Canada,customer816@scrunchieshop.ca,2024-06-12,VIP,Email,Canada,1
+817,Customer817,Canada,customer817@scrunchieshop.ca,2024-10-01,New,Referral,Canada,4
+818,Customer818,Canada,customer818@scrunchieshop.ca,2023-06-28,Returning,Organic,Canada,6
+819,Customer819,Canada,customer819@scrunchieshop.ca,2023-07-01,Returning,Referral,Canada,5
+820,Customer820,Canada,customer820@scrunchieshop.ca,2024-10-25,VIP,Organic,Canada,3
+821,Customer821,Canada,customer821@scrunchieshop.ca,2023-01-25,Returning,Organic,Canada,5
+822,Customer822,Canada,customer822@scrunchieshop.ca,2023-06-29,Returning,Paid Ads,Canada,3
+823,Customer823,Canada,customer823@scrunchieshop.ca,2024-12-10,New,Paid Ads,Canada,4
+824,Customer824,Canada,customer824@scrunchieshop.ca,2024-05-15,Returning,Paid Ads,Canada,1
+825,Customer825,Canada,customer825@scrunchieshop.ca,2023-06-10,New,Email,Canada,6
+826,Customer826,Canada,customer826@scrunchieshop.ca,2023-06-26,Returning,Email,Canada,1
+827,Customer827,Canada,customer827@scrunchieshop.ca,2023-10-12,Returning,Paid Ads,Canada,5
+828,Customer828,Canada,customer828@scrunchieshop.ca,2023-03-04,Returning,Email,Canada,1
+829,Customer829,Canada,customer829@scrunchieshop.ca,2024-10-23,New,Referral,Canada,4
+830,Customer830,Canada,customer830@scrunchieshop.ca,2024-10-27,New,Referral,Canada,6
+831,Customer831,Canada,customer831@scrunchieshop.ca,2023-06-05,Returning,Email,Canada,5
+832,Customer832,Canada,customer832@scrunchieshop.ca,2024-04-13,New,Email,Canada,6
+833,Customer833,Canada,customer833@scrunchieshop.ca,2023-02-18,New,Referral,Canada,3
+834,Customer834,Canada,customer834@scrunchieshop.ca,2023-03-25,New,Organic,Canada,1
+835,Customer835,Canada,customer835@scrunchieshop.ca,2023-12-27,VIP,Referral,Canada,6
+836,Customer836,Canada,customer836@scrunchieshop.ca,2024-11-19,Returning,Referral,Canada,2
+837,Customer837,Canada,customer837@scrunchieshop.ca,2023-05-28,New,Email,Canada,1
+838,Customer838,Canada,customer838@scrunchieshop.ca,2024-09-21,New,Referral,Canada,3
+839,Customer839,Canada,customer839@scrunchieshop.ca,2023-12-08,New,Email,Canada,6
+840,Customer840,Canada,customer840@scrunchieshop.ca,2024-04-20,Returning,Email,Canada,5
+841,Customer841,Canada,customer841@scrunchieshop.ca,2023-03-04,Returning,Paid Ads,Canada,3
+842,Customer842,Canada,customer842@scrunchieshop.ca,2024-12-01,New,Referral,Canada,2
+843,Customer843,Canada,customer843@scrunchieshop.ca,2023-12-26,New,Organic,Canada,6
+844,Customer844,Canada,customer844@scrunchieshop.ca,2024-07-14,New,Paid Ads,Canada,4
+845,Customer845,Canada,customer845@scrunchieshop.ca,2023-11-23,Returning,Email,Canada,1
+846,Customer846,Canada,customer846@scrunchieshop.ca,2023-05-21,Returning,Email,Canada,5
+847,Customer847,Canada,customer847@scrunchieshop.ca,2023-08-03,New,Organic,Canada,4
+848,Customer848,Canada,customer848@scrunchieshop.ca,2024-03-10,New,Email,Canada,6
+849,Customer849,Canada,customer849@scrunchieshop.ca,2023-11-14,New,Referral,Canada,6
+850,Customer850,Canada,customer850@scrunchieshop.ca,2023-02-01,VIP,Paid Ads,Canada,3
+851,Customer851,Canada,customer851@scrunchieshop.ca,2024-10-31,New,Email,Canada,6
+852,Customer852,Canada,customer852@scrunchieshop.ca,2023-10-12,Returning,Email,Canada,5
+853,Customer853,Canada,customer853@scrunchieshop.ca,2023-11-01,Returning,Organic,Canada,4
+854,Customer854,Canada,customer854@scrunchieshop.ca,2024-03-04,New,Referral,Canada,5
+855,Customer855,Canada,customer855@scrunchieshop.ca,2024-04-21,New,Email,Canada,2
+856,Customer856,Canada,customer856@scrunchieshop.ca,2023-10-13,New,Organic,Canada,2
+857,Customer857,Canada,customer857@scrunchieshop.ca,2023-05-24,Returning,Email,Canada,1
+858,Customer858,Canada,customer858@scrunchieshop.ca,2024-02-28,Returning,Organic,Canada,1
+859,Customer859,Canada,customer859@scrunchieshop.ca,2023-01-19,Returning,Organic,Canada,2
+860,Customer860,Canada,customer860@scrunchieshop.ca,2023-01-18,Returning,Referral,Canada,6
+861,Customer861,Canada,customer861@scrunchieshop.ca,2024-08-12,New,Email,Canada,5
+862,Customer862,Canada,customer862@scrunchieshop.ca,2024-01-06,VIP,Referral,Canada,2
+863,Customer863,Canada,customer863@scrunchieshop.ca,2023-06-24,Returning,Organic,Canada,1
+864,Customer864,Canada,customer864@scrunchieshop.ca,2023-07-13,New,Paid Ads,Canada,2
+865,Customer865,Canada,customer865@scrunchieshop.ca,2024-05-16,VIP,Email,Canada,6
+866,Customer866,Canada,customer866@scrunchieshop.ca,2023-04-23,Returning,Paid Ads,Canada,2
+867,Customer867,Canada,customer867@scrunchieshop.ca,2023-04-24,Returning,Email,Canada,5
+868,Customer868,Canada,customer868@scrunchieshop.ca,2023-08-10,Returning,Referral,Canada,4
+869,Customer869,Canada,customer869@scrunchieshop.ca,2024-11-08,Returning,Referral,Canada,6
+870,Customer870,Canada,customer870@scrunchieshop.ca,2024-10-05,Returning,Referral,Canada,1
+871,Customer871,Canada,customer871@scrunchieshop.ca,2023-09-21,New,Referral,Canada,5
+872,Customer872,Canada,customer872@scrunchieshop.ca,2023-02-24,New,Referral,Canada,2
+873,Customer873,Canada,customer873@scrunchieshop.ca,2024-10-04,VIP,Paid Ads,Canada,2
+874,Customer874,Canada,customer874@scrunchieshop.ca,2024-04-02,New,Referral,Canada,4
+875,Customer875,Canada,customer875@scrunchieshop.ca,2023-06-11,New,Organic,Canada,1
+876,Customer876,Canada,customer876@scrunchieshop.ca,2024-01-15,New,Organic,Canada,1
+877,Customer877,Canada,customer877@scrunchieshop.ca,2023-03-28,New,Paid Ads,Canada,3
+878,Customer878,Canada,customer878@scrunchieshop.ca,2023-02-24,Returning,Email,Canada,1
+879,Customer879,Canada,customer879@scrunchieshop.ca,2024-04-20,VIP,Organic,Canada,4
+880,Customer880,Canada,customer880@scrunchieshop.ca,2023-06-27,New,Email,Canada,3
+881,Customer881,Canada,customer881@scrunchieshop.ca,2024-01-26,New,Paid Ads,Canada,3
+882,Customer882,Canada,customer882@scrunchieshop.ca,2023-12-15,New,Email,Canada,2
+883,Customer883,Canada,customer883@scrunchieshop.ca,2023-01-08,VIP,Email,Canada,2
+884,Customer884,Canada,customer884@scrunchieshop.ca,2023-11-09,Returning,Email,Canada,1
+885,Customer885,Canada,customer885@scrunchieshop.ca,2024-03-18,New,Email,Canada,3
+886,Customer886,Canada,customer886@scrunchieshop.ca,2023-11-24,Returning,Paid Ads,Canada,2
+887,Customer887,Canada,customer887@scrunchieshop.ca,2023-02-23,VIP,Organic,Canada,4
+888,Customer888,Canada,customer888@scrunchieshop.ca,2023-08-27,Returning,Referral,Canada,2
+889,Customer889,Canada,customer889@scrunchieshop.ca,2023-08-17,VIP,Email,Canada,6
+890,Customer890,Canada,customer890@scrunchieshop.ca,2024-08-01,New,Organic,Canada,6
+891,Customer891,Canada,customer891@scrunchieshop.ca,2023-02-20,Returning,Organic,Canada,2
+892,Customer892,Canada,customer892@scrunchieshop.ca,2024-08-31,New,Paid Ads,Canada,3
+893,Customer893,Canada,customer893@scrunchieshop.ca,2024-08-26,Returning,Organic,Canada,3
+894,Customer894,Canada,customer894@scrunchieshop.ca,2023-09-21,Returning,Paid Ads,Canada,5
+895,Customer895,Canada,customer895@scrunchieshop.ca,2024-02-22,Returning,Email,Canada,6
+896,Customer896,Canada,customer896@scrunchieshop.ca,2023-04-06,Returning,Email,Canada,4
+897,Customer897,Canada,customer897@scrunchieshop.ca,2023-03-29,New,Referral,Canada,3
+898,Customer898,Canada,customer898@scrunchieshop.ca,2023-03-19,Returning,Referral,Canada,1
+899,Customer899,Canada,customer899@scrunchieshop.ca,2023-10-15,VIP,Referral,Canada,6
+900,Customer900,Canada,customer900@scrunchieshop.ca,2023-04-30,VIP,Organic,Canada,4
+901,Customer901,Canada,customer901@scrunchieshop.ca,2024-05-05,New,Email,Canada,4
+902,Customer902,Canada,customer902@scrunchieshop.ca,2024-03-27,New,Paid Ads,Canada,3
+903,Customer903,Canada,customer903@scrunchieshop.ca,2024-05-14,New,Referral,Canada,4
+904,Customer904,Canada,customer904@scrunchieshop.ca,2023-06-14,Returning,Paid Ads,Canada,3
+905,Customer905,Canada,customer905@scrunchieshop.ca,2023-07-01,Returning,Paid Ads,Canada,2
+906,Customer906,Canada,customer906@scrunchieshop.ca,2024-04-13,New,Referral,Canada,6
+907,Customer907,Canada,customer907@scrunchieshop.ca,2023-01-07,Returning,Email,Canada,5
+908,Customer908,Canada,customer908@scrunchieshop.ca,2023-11-26,Returning,Referral,Canada,2
+909,Customer909,Canada,customer909@scrunchieshop.ca,2024-11-03,Returning,Paid Ads,Canada,6
+910,Customer910,Canada,customer910@scrunchieshop.ca,2023-05-31,Returning,Referral,Canada,3
+911,Customer911,Canada,customer911@scrunchieshop.ca,2023-03-26,Returning,Paid Ads,Canada,6
+912,Customer912,Canada,customer912@scrunchieshop.ca,2023-05-27,Returning,Paid Ads,Canada,3
+913,Customer913,Canada,customer913@scrunchieshop.ca,2024-09-15,New,Referral,Canada,2
+914,Customer914,Canada,customer914@scrunchieshop.ca,2024-01-16,Returning,Organic,Canada,1
+915,Customer915,Canada,customer915@scrunchieshop.ca,2024-07-01,Returning,Referral,Canada,1
+916,Customer916,Canada,customer916@scrunchieshop.ca,2023-10-12,VIP,Organic,Canada,6
+917,Customer917,Canada,customer917@scrunchieshop.ca,2024-11-30,Returning,Paid Ads,Canada,1
+918,Customer918,Canada,customer918@scrunchieshop.ca,2023-03-23,Returning,Paid Ads,Canada,3
+919,Customer919,Canada,customer919@scrunchieshop.ca,2024-05-28,New,Organic,Canada,4
+920,Customer920,Canada,customer920@scrunchieshop.ca,2024-12-09,New,Paid Ads,Canada,3
+921,Customer921,Canada,customer921@scrunchieshop.ca,2024-06-06,New,Organic,Canada,4
+922,Customer922,Canada,customer922@scrunchieshop.ca,2024-01-21,New,Organic,Canada,2
+923,Customer923,Canada,customer923@scrunchieshop.ca,2024-12-07,Returning,Paid Ads,Canada,5
+924,Customer924,Canada,customer924@scrunchieshop.ca,2024-04-15,VIP,Email,Canada,4
+925,Customer925,Canada,customer925@scrunchieshop.ca,2023-04-29,New,Organic,Canada,1
+926,Customer926,Canada,customer926@scrunchieshop.ca,2024-01-31,New,Referral,Canada,3
+927,Customer927,Canada,customer927@scrunchieshop.ca,2024-06-15,Returning,Referral,Canada,2
+928,Customer928,Canada,customer928@scrunchieshop.ca,2023-09-18,New,Paid Ads,Canada,1
+929,Customer929,Canada,customer929@scrunchieshop.ca,2023-09-13,Returning,Email,Canada,2
+930,Customer930,Canada,customer930@scrunchieshop.ca,2023-08-14,Returning,Paid Ads,Canada,5
+931,Customer931,Canada,customer931@scrunchieshop.ca,2023-02-22,Returning,Email,Canada,3
+932,Customer932,Canada,customer932@scrunchieshop.ca,2024-05-14,New,Organic,Canada,6
+933,Customer933,Canada,customer933@scrunchieshop.ca,2024-05-20,New,Organic,Canada,3
+934,Customer934,Canada,customer934@scrunchieshop.ca,2023-12-30,Returning,Organic,Canada,5
+935,Customer935,Canada,customer935@scrunchieshop.ca,2023-10-07,Returning,Organic,Canada,3
+936,Customer936,Canada,customer936@scrunchieshop.ca,2024-08-15,New,Referral,Canada,6
+937,Customer937,Canada,customer937@scrunchieshop.ca,2024-12-14,Returning,Referral,Canada,4
+938,Customer938,Canada,customer938@scrunchieshop.ca,2023-06-07,New,Paid Ads,Canada,2
+939,Customer939,Canada,customer939@scrunchieshop.ca,2024-09-23,Returning,Email,Canada,6
+940,Customer940,Canada,customer940@scrunchieshop.ca,2023-02-28,New,Organic,Canada,1
+941,Customer941,Canada,customer941@scrunchieshop.ca,2023-05-08,VIP,Organic,Canada,5
+942,Customer942,Canada,customer942@scrunchieshop.ca,2023-04-25,New,Email,Canada,4
+943,Customer943,Canada,customer943@scrunchieshop.ca,2023-07-28,New,Email,Canada,1
+944,Customer944,Canada,customer944@scrunchieshop.ca,2024-06-09,New,Paid Ads,Canada,1
+945,Customer945,Canada,customer945@scrunchieshop.ca,2024-06-04,New,Email,Canada,5
+946,Customer946,Canada,customer946@scrunchieshop.ca,2024-07-05,VIP,Organic,Canada,4
+947,Customer947,Canada,customer947@scrunchieshop.ca,2023-08-25,VIP,Organic,Canada,1
+948,Customer948,Canada,customer948@scrunchieshop.ca,2023-10-08,New,Organic,Canada,1
+949,Customer949,Canada,customer949@scrunchieshop.ca,2023-12-25,New,Organic,Canada,4
+950,Customer950,Canada,customer950@scrunchieshop.ca,2023-07-20,Returning,Organic,Canada,3
+951,Customer951,Canada,customer951@scrunchieshop.ca,2023-10-05,VIP,Paid Ads,Canada,1
+952,Customer952,Canada,customer952@scrunchieshop.ca,2023-08-23,Returning,Organic,Canada,2
+953,Customer953,Canada,customer953@scrunchieshop.ca,2024-05-08,New,Paid Ads,Canada,4
+954,Customer954,Canada,customer954@scrunchieshop.ca,2023-01-04,New,Organic,Canada,1
+955,Customer955,Canada,customer955@scrunchieshop.ca,2024-10-27,Returning,Referral,Canada,5
+956,Customer956,Canada,customer956@scrunchieshop.ca,2024-03-17,New,Referral,Canada,6
+957,Customer957,Canada,customer957@scrunchieshop.ca,2023-01-29,Returning,Referral,Canada,2
+958,Customer958,Canada,customer958@scrunchieshop.ca,2023-04-19,New,Referral,Canada,6
+959,Customer959,Canada,customer959@scrunchieshop.ca,2024-09-01,Returning,Paid Ads,Canada,6
+960,Customer960,Canada,customer960@scrunchieshop.ca,2023-03-16,New,Paid Ads,Canada,1
+961,Customer961,Canada,customer961@scrunchieshop.ca,2023-05-26,Returning,Email,Canada,2
+962,Customer962,Canada,customer962@scrunchieshop.ca,2023-05-08,New,Organic,Canada,2
+963,Customer963,Canada,customer963@scrunchieshop.ca,2023-02-11,Returning,Referral,Canada,3
+964,Customer964,Canada,customer964@scrunchieshop.ca,2023-12-22,New,Paid Ads,Canada,6
+965,Customer965,Canada,customer965@scrunchieshop.ca,2023-02-10,Returning,Organic,Canada,2
+966,Customer966,Canada,customer966@scrunchieshop.ca,2023-02-03,Returning,Organic,Canada,3
+967,Customer967,Canada,customer967@scrunchieshop.ca,2023-01-17,Returning,Paid Ads,Canada,4
+968,Customer968,Canada,customer968@scrunchieshop.ca,2024-11-07,Returning,Referral,Canada,3
+969,Customer969,Canada,customer969@scrunchieshop.ca,2023-06-02,Returning,Email,Canada,5
+970,Customer970,Canada,customer970@scrunchieshop.ca,2024-01-13,Returning,Organic,Canada,1
+971,Customer971,Canada,customer971@scrunchieshop.ca,2024-08-10,New,Email,Canada,4
+972,Customer972,Canada,customer972@scrunchieshop.ca,2024-08-21,Returning,Referral,Canada,4
+973,Customer973,Canada,customer973@scrunchieshop.ca,2024-09-20,New,Referral,Canada,5
+974,Customer974,Canada,customer974@scrunchieshop.ca,2023-12-08,New,Email,Canada,3
+975,Customer975,Canada,customer975@scrunchieshop.ca,2023-01-27,New,Referral,Canada,1
+976,Customer976,Canada,customer976@scrunchieshop.ca,2023-10-14,New,Organic,Canada,3
+977,Customer977,Canada,customer977@scrunchieshop.ca,2024-10-07,Returning,Email,Canada,2
+978,Customer978,Canada,customer978@scrunchieshop.ca,2023-06-17,Returning,Referral,Canada,3
+979,Customer979,Canada,customer979@scrunchieshop.ca,2024-09-01,Returning,Email,Canada,4
+980,Customer980,Canada,customer980@scrunchieshop.ca,2023-09-25,Returning,Organic,Canada,1
+981,Customer981,Canada,customer981@scrunchieshop.ca,2024-03-30,New,Referral,Canada,3
+982,Customer982,Canada,customer982@scrunchieshop.ca,2024-11-15,New,Organic,Canada,1
+983,Customer983,Canada,customer983@scrunchieshop.ca,2024-02-05,New,Referral,Canada,1
+984,Customer984,Canada,customer984@scrunchieshop.ca,2024-04-20,New,Paid Ads,Canada,2
+985,Customer985,Canada,customer985@scrunchieshop.ca,2024-12-02,New,Referral,Canada,2
+986,Customer986,Canada,customer986@scrunchieshop.ca,2024-09-25,New,Email,Canada,4
+987,Customer987,Canada,customer987@scrunchieshop.ca,2024-07-11,Returning,Referral,Canada,5
+988,Customer988,Canada,customer988@scrunchieshop.ca,2024-07-29,Returning,Organic,Canada,1
+989,Customer989,Canada,customer989@scrunchieshop.ca,2023-05-10,VIP,Organic,Canada,5
+990,Customer990,Canada,customer990@scrunchieshop.ca,2023-12-29,VIP,Referral,Canada,4
+991,Customer991,Canada,customer991@scrunchieshop.ca,2024-12-05,Returning,Email,Canada,1
+992,Customer992,Canada,customer992@scrunchieshop.ca,2024-11-23,New,Paid Ads,Canada,1
+993,Customer993,Canada,customer993@scrunchieshop.ca,2023-10-19,Returning,Email,Canada,6
+994,Customer994,Canada,customer994@scrunchieshop.ca,2024-01-06,Returning,Paid Ads,Canada,5
+995,Customer995,Canada,customer995@scrunchieshop.ca,2023-01-29,New,Organic,Canada,3
+996,Customer996,Canada,customer996@scrunchieshop.ca,2023-05-29,New,Email,Canada,2
+997,Customer997,Canada,customer997@scrunchieshop.ca,2023-10-23,Returning,Paid Ads,Canada,3
+998,Customer998,Canada,customer998@scrunchieshop.ca,2023-01-11,New,Referral,Canada,5
+999,Customer999,Canada,customer999@scrunchieshop.ca,2024-05-26,Returning,Organic,Canada,2
+1000,Customer1000,Canada,customer1000@scrunchieshop.ca,2024-11-06,Returning,Referral,Canada,3
